@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:20.000Z
+pubDatetime: 2026-05-31T21:28:25.000Z
 title: "Liga F no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Nerea Nevado (89), -46.9% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 23 cartas em alta contra 31 em queda (média 4.27%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 25 cartas em alta contra 30 em queda (média 4.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **23 subiram** e **31 caíram**, com variação média de **4.27%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **25 subiram** e **30 caíram**, com variação média de **4.97%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Estefanía Banini (89) **+52.9%** · 🔴 **Maior baixa:** Nerea Nevado (89) **-46.9%**
 
@@ -91,11 +91,13 @@ Estefanía Banini (89, Liga F), com +52.9% em 24h, a 26k coins no PC.
 Nerea Nevado (89), -46.9% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 23 cartas em alta contra 31 em queda (média 4.27%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 25 cartas em alta contra 30 em queda (média 4.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 

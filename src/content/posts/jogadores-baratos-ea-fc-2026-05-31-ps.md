@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:19.000Z
+pubDatetime: 2026-05-31T21:28:24.000Z
 title: "Jogadores baratos de Liga F no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Mapi León | 89 | CB | Liga F | 6k coins | +5.4% |
 | Patri Guijarro | 89 | CDM | Liga F | 6k coins | +5.4% |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -8.2% |
 | Ewa Pajor | 88 | ST | Liga F | 3k coins | +26.9% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | +2% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -2% |
 | Georgia Stanway | 88 | CDM | Liga F | 14k coins | -3.4% |
-| Luany | 88 | RM | Liga F | 14k coins | -10.9% |
-| Linda Caicedo | 87 | CAM | Liga F | 12k coins | -14.3% |
-| Pernille Harder | 87 | LW | Liga F | 12k coins | -12.7% |
-| Vicky López | 87 | CM | Liga F | 12k coins | -56.2% |
-| Caroline Weir | 87 | CAM | Liga F | 14k coins | +3.7% |
-| Allegra Poljak | 86 | LM | Liga F | 12k coins | -60.2% |
-| Ane Azkona | 86 | ST | Liga F | 12k coins | -16.1% |
-| Sara Däbritz | 86 | CM | Liga F | 12k coins | -60.8% |
-| Athenea | 86 | RW | Liga F | 12k coins | -62.1% |
+| Luany | 88 | RM | Liga F | 14k coins | -12.5% |
+| Vicky López | 87 | CM | Liga F | 12k coins | -61% |
+| Linda Caicedo | 87 | CAM | Liga F | 12k coins | -16.1% |
+| Pernille Harder | 87 | LW | Liga F | 12k coins | -19% |
+| Caroline Weir | 87 | CAM | Liga F | 13k coins | -1.8% |
+| Allegra Poljak | 86 | LM | Liga F | 11k coins | -62.9% |
+| Ane Azkona | 86 | ST | Liga F | 11k coins | -20% |
+| Caroline Weir | 86 | RW | Liga F | 11k coins | -60.2% |
+| Sara Däbritz | 86 | CM | Liga F | 12k coins | -72.5% |
+| Sydney Schertenleib | 86 | RM | Liga F | 12k coins | -67.6% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **6k coins**
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ewa Pajor (88, ST)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins**
+
+- **Georgia Stanway (88, CDM)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 
