@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:25.000Z
+pubDatetime: 2026-05-31T22:07:03.000Z
 title: "Jogadores baratos de Liga F no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -34,16 +34,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +20% |
 | Irene Paredes | 88 | CB | Liga F | 4k coins | +5.7% |
 | Ewa Pajor | 88 | ST | Liga F | 4k coins | -2.6% |
+| Linda Caicedo | 87 | CAM | Liga F | 12k coins | -11.5% |
 | Pernille Harder | 87 | LW | Liga F | 12k coins | -2% |
-| Vicky López | 87 | CM | Liga F | 12k coins | -73.3% |
-| Laia Aleixandri | 86 | CM | Liga F | 11k coins | -60.2% |
-| Ane Azkona | 86 | ST | Liga F | 11k coins | -8.2% |
-| Sara Däbritz | 86 | CM | Liga F | 11k coins | -70% |
-| Caroline Weir | 86 | RW | Liga F | 12k coins | -72.9% |
-| Sydney Schertenleib | 86 | RM | Liga F | 12k coins | -62.6% |
-| Allegra Poljak | 86 | LM | Liga F | 12k coins | -73.1% |
-| Edna Imade | 85 | ST | Liga F | 12k coins | -57.8% |
-| Fiamma Benítez | 84 | CAM | Liga F | 11k coins | -67.2% |
+| Athenea | 86 | RW | Liga F | 11k coins | -69.2% |
+| Laia Aleixandri | 86 | CM | Liga F | 11k coins | -63% |
+| Ane Azkona | 86 | ST | Liga F | 11k coins | -6.4% |
+| Allegra Poljak | 86 | LM | Liga F | 11k coins | -75.4% |
+| Sara Däbritz | 86 | CM | Liga F | 11k coins | -59.8% |
+| Caroline Weir | 86 | RW | Liga F | 11k coins | -73.5% |
+| Sydney Schertenleib | 86 | RM | Liga F | 11k coins | -64.3% |
+| Edna Imade | 85 | ST | Liga F | 11k coins | -60.4% |
 
 
 ## 📈 Destaques
