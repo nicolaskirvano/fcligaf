@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:07:01.000Z
+pubDatetime: 2026-06-01T01:07:01.000Z
 title: "Liga F no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Lauri (83) — 95% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 45 em queda (média -3.67%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 19 cartas em alta contra 43 em queda (média -3.15%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **45 caíram**, com variação média de **-3.67%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **19 subiram** e **43 caíram**, com variação média de **-3.15%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Patri Guijarro (91) **+37.9%** · 🔴 **Maior baixa:** Alexia Putellas (92) **-38.3%**
 
@@ -85,7 +85,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Lauri | 83 | 23k coins | 27k coins | 95% |
-| Alexia Putellas | 91 | 16k coins | 19k coins | 95% |
+| Alexia Putellas | 91 | 18k coins | 20k coins | 95% |
 | Athenea | 86 | 40k coins | 52k coins | 95% |
 | Patri Guijarro | 90 | 48k coins | 59k coins | 95% |
 | Patri Guijarro | 91 | 60k coins | 69k coins | 95% |
@@ -106,7 +106,7 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Irene Paredes | 88 | 20k coins | -34.2% |
 | Andreia Jacinto | 88 | 16k coins | -12.6% |
 | Ewa Pajor | 96 | 360k coins | -10.2% |
-| Aitana Bonmatí | 91 | 16k coins | -10.2% |
+| Aitana Bonmatí | 91 | 17k coins | -10.2% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,7 +126,7 @@ Alexia Putellas (92), -38.3% em 24h, a 44k coins.
 Pelo modelo FutQuant, Lauri (83) — 95% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 45 em queda (média -3.67%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 19 cartas em alta contra 43 em queda (média -3.15%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

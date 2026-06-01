@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:07:01.000Z
+pubDatetime: 2026-06-01T01:07:02.000Z
 title: "Melhores investimentos em Liga F no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -34,9 +34,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Patri Guijarro | 90 | Liga F | 48k coins | +28.4% | +61% | 95% |
 | Athenea | 86 | Liga F | 40k coins | +14.1% | +39.7% | 95% |
 | Patri Guijarro | 91 | Liga F | 60k coins | +37.9% | +37.1% | 95% |
+| Alexia Putellas | 91 | Liga F | 18k coins | +26.8% | +14.5% | 95% |
 | Caroline Weir | 89 | Liga F | 25k coins | +3.1% | +11.2% | 5% |
 | Estefanía Banini | 89 | Liga F | 15k coins | +8.9% | +8.9% | 27% |
-| Alexia Putellas | 91 | Liga F | 16k coins | +12.1% | +8.3% | 95% |
 
 
 ## 📈 Análise dos destaques
@@ -47,9 +47,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Patri Guijarro (91)** — 60k coins, **+37.1% em 7 dias** (+37.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Caroline Weir (89)** — 25k coins, **+11.2% em 7 dias** (+3.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Alexia Putellas (91)** — 18k coins, **+14.5% em 7 dias** (+26.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Estefanía Banini (89)** — 15k coins, **+8.9% em 7 dias** (+8.9% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Caroline Weir (89)** — 25k coins, **+11.2% em 7 dias** (+3.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
