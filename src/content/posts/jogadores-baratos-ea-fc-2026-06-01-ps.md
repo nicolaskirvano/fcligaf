@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:07:02.000Z
+pubDatetime: 2026-06-01T13:07:02.000Z
 title: "Jogadores baratos de Liga F no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | +2.1% |
 | Mapi León | 89 | CB | Liga F | 6k coins | +17.3% |
 | Patri Guijarro | 89 | CDM | Liga F | 6k coins | +6.9% |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | +1.8% |
 | Irene Paredes | 88 | CB | Liga F | 3k coins | +7.7% |
 | Ewa Pajor | 88 | ST | Liga F | 3k coins | +10.7% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | +6.2% |
-| Georgia Stanway | 88 | CDM | Liga F | 14k coins | -6.9% |
-| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -22.4% |
-| Luany | 88 | RM | Liga F | 15k coins | -1.6% |
-| Vicky López | 87 | CM | Liga F | 11k coins | -63.6% |
+| Georgia Stanway | 88 | CDM | Liga F | 13k coins | -10.3% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | +12.5% |
+| Luany | 88 | RM | Liga F | 15k coins | -3.3% |
+| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -20% |
+| Amaiur Sarriegi | 88 | ST | Liga F | 15k coins | -10.4% |
+| Pernille Harder | 87 | LW | Liga F | 11k coins | -21.4% |
+| Vicky López | 87 | CM | Liga F | 11k coins | -65.6% |
 | Linda Caicedo | 87 | CAM | Liga F | 11k coins | -21.4% |
-| Pernille Harder | 87 | LW | Liga F | 12k coins | -20.7% |
-| Caroline Weir | 87 | CAM | Liga F | 12k coins | -11.1% |
-| Allegra Poljak | 87 | RB | Liga F | 15k coins | -10.4% |
+| Caroline Weir | 87 | CAM | Liga F | 13k coins | -5.6% |
+| Allegra Poljak | 86 | LM | Liga F | 11k coins | -63.6% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **6k coins**
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins**
-
 - **Irene Paredes (88, CB)** da Liga F, a apenas **3k coins**
+
+- **Ewa Pajor (88, ST)** da Liga F, a apenas **3k coins**
 
 
 ## Por que estas cartas?

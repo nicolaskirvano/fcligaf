@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:07:02.000Z
+pubDatetime: 2026-06-01T13:07:02.000Z
 title: "Liga F no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,67 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Fiamma Benítez (86, Liga F), com +37.1% em 24h, a 36k coins no PC."
+    a: "Nerea Nevado (89, Liga F), com +41.2% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Caroline Graham Hansen (95), -38.3% em 24h, a 1.08M coins."
+    a: "Estefanía Banini (89), -25.8% em 24h, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 24 cartas em alta contra 32 em queda (média 7.93%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 36 em queda (média 17.72%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **32 caíram**, com variação média de **7.93%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **36 caíram**, com variação média de **17.72%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Fiamma Benítez (86) **+37.1%** · 🔴 **Maior baixa:** Caroline Graham Hansen (95) **-38.3%**
+> 🟢 **Maior alta:** Nerea Nevado (89) **+41.2%** · 🔴 **Maior baixa:** Estefanía Banini (89) **-25.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fiamma Benítez | 86 | Liga F | 36k coins | +37.1% | +94.6% |
-| Esmee Brugts | 88 | Liga F | 26k coins | +35.1% | -13.3% |
-| Patri Guijarro | 90 | Liga F | 65k coins | +31.3% | +2.4% |
-| Dolores Silva | 84 | Liga F | 30k coins | +25% | +20% |
-| Caroline Graham Hansen | 92 | Liga F | 429k coins | +22.9% | +43% |
-| Claudia Pina | 92 | Liga F | 7.90M coins | +20.5% | +71.7% |
-| Irene Paredes | 88 | Liga F | 23k coins | +18% | -3.2% |
-| Claudia Pina | 88 | Liga F | 550k coins | +17.3% | +52.8% |
-| Claudia Pina | 88 | Liga F | 940k coins | +14.6% | +38.4% |
-| Claudia Pina | 95 | Liga F | 1.92M coins | +7.3% | +6.7% |
+| Nerea Nevado | 89 | Liga F | 30k coins | +41.2% | +33.3% |
+| Aitana Bonmatí | 97 | Liga F | 3M coins | +20% | +25% |
+| Irene Paredes | 88 | Liga F | 23k coins | +19.5% | -3.2% |
+| Claudia Pina | 95 | Liga F | 2.25M coins | +18.9% | +18.3% |
+| Dolores Silva | 84 | Liga F | 28k coins | +18.8% | -11.6% |
+| Ona Batlle | 90 | Liga F | 20k coins | +13.9% | -6.8% |
+| Sara Holmgaard | 80 | Liga F | 47k coins | +12% | +2.8% |
+| Claudia Pina | 88 | Liga F | 990k coins | +5.5% | +52.3% |
 
 
 ### Análise das altas
 
-- **Fiamma Benítez (86)** subiu **+37.1%** em 24h, a **36k coins** (faixa do dia: 26k–36k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Nerea Nevado (89)** subiu **+41.2%** em 24h, a **30k coins** (faixa do dia: 18k–42k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Esmee Brugts (88)** subiu **+35.1%** em 24h, a **26k coins** (faixa do dia: 19k–28k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
+- **Aitana Bonmatí (97)** subiu **+20%** em 24h, a **3M coins** (faixa do dia: 2.47M–4M). Está +14% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Patri Guijarro (90)** subiu **+31.3%** em 24h, a **65k coins** (faixa do dia: 49k–80k). Está -15% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Irene Paredes (88)** subiu **+19.5%** em 24h, a **23k coins** (faixa do dia: 19k–23k). Está em linha com a média de 7 dias (-4%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 95 | Liga F | 1.08M coins | -38.3% | +4.2% |
-| Mari José | 86 | Liga F | 56k coins | -34.9% | -34.1% |
-| Alexia Putellas | 95 | Liga F | 1.99M coins | -30% | +184.3% |
-| Alexia Putellas | 92 | Liga F | 465k coins | -28.4% | -18.4% |
-| Salma Paralluelo | 92 | Liga F | 1.50M coins | -23.1% | -6.2% |
-| Alexia Putellas | 92 | Liga F | 39k coins | -20.4% | -2.5% |
-| Georgia Stanway | 88 | Liga F | 21k coins | -16% | +61.5% |
-| Sofie Junge Pedersen | 86 | Liga F | 21k coins | -12.6% | -8.8% |
-| Ewa Pajor | 96 | Liga F | 420k coins | -10.6% | -38% |
-| Patri Guijarro | 90 | Liga F | 49k coins | -10.6% | -25.6% |
+| Estefanía Banini | 89 | Liga F | 23k coins | -25.8% | +27.8% |
+| Alexia Putellas | 95 | Liga F | 1.95M coins | -25% | +160.2% |
+| Alexia Putellas | 92 | Liga F | 488k coins | -24.1% | -2.6% |
+| Athenea | 86 | Liga F | 60k coins | -20% | +50% |
+| Alexia Putellas | 92 | Liga F | 35k coins | -17.3% | -8.6% |
+| Esmee Brugts | 88 | Liga F | 25k coins | -9.1% | -13.8% |
+| Patri Guijarro | 90 | Liga F | 64k coins | -7.9% | +0.8% |
+| Patri Guijarro | 90 | Liga F | 46k coins | -6.2% | -30.2% |
+| Rocío Gálvez | 85 | Liga F | 21k coins | -5.7% | -5.7% |
+| Sofie Junge Pedersen | 86 | Liga F | 22k coins | -5.3% | -1.1% |
 
 
 ### Análise das baixas
 
-- **Caroline Graham Hansen (95)** caiu **-38.3%** em 24h, a **1.08M coins** (faixa do dia: 896k–1.28M). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+- **Estefanía Banini (89)** caiu **-25.8%** em 24h, a **23k coins** (faixa do dia: 21k–31k). Está em linha com a média de 7 dias (+2%). O modelo vê **estabilização** no curto prazo.
 
-- **Mari José (86)** caiu **-34.9%** em 24h, a **56k coins** (faixa do dia: 56k–65k). Está -38% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alexia Putellas (95)** caiu **-25%** em 24h, a **1.95M coins** (faixa do dia: 1.95M–2.40M). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Alexia Putellas (95)** caiu **-30%** em 24h, a **1.99M coins** (faixa do dia: 1.99M–2.90M). Está -10% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alexia Putellas (92)** caiu **-24.1%** em 24h, a **488k coins** (faixa do dia: 400k–643k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +84,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Fiamma Benítez (86, Liga F), com +37.1% em 24h, a 36k coins no PC.
+Nerea Nevado (89, Liga F), com +41.2% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Caroline Graham Hansen (95), -38.3% em 24h, a 1.08M coins.
+Estefanía Banini (89), -25.8% em 24h, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 24 cartas em alta contra 32 em queda (média 7.93%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 36 em queda (média 17.72%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
