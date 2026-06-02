@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T13:07:02.000Z
+pubDatetime: 2026-06-02T16:07:02.000Z
 title: "Liga F no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
