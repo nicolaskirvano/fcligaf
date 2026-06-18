@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:30:48.000Z
+pubDatetime: 2026-06-18T20:16:08.000Z
 title: "Liga F no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,88 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Sofie Junge Pedersen (86, Liga F), com +46.9% em 24h, a 29k coins no PC."
+    a: "Fiamma Benítez (86, Liga F), com +59.2% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Andrea Medina (86), -32.7% em 24h, a 27k coins."
+    a: "Elba Vergés (84), -26.8% em 24h, a 35k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 22 em queda (média 2.06%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 18 cartas em alta contra 28 em queda (média 2.52%)."
+  - q: "Posso confiar nos preços e previsões do FutQuant?"
+    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📊 Como está o mercado agora
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **22 caíram**, com variação média de **2.06%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado de Liga F em PC apresenta um sentimento aquecido, com as altas dominando o dia através de 18 movimentos positivos contra 28 quedas. A média de variação em 24h foi de 2.52%, indicando uma volatilidade moderada mas com oportunidades claras para traders atentos.
 
-> 🟢 **Maior alta:** Sofie Junge Pedersen (86) **+46.9%** · 🔴 **Maior baixa:** Andrea Medina (86) **-32.7%**
+> 🟢 **Maior alta:** Fiamma Benítez (86) **+59.2%** · 🔴 **Maior baixa:** Elba Vergés (84) **-26.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sofie Junge Pedersen | 86 | Liga F | 29k coins | +46.9% | +72.5% |
-| Patri Guijarro | 90 | Liga F | 75k coins | +41.5% | +26.1% |
+| Fiamma Benítez | 86 | Liga F | 28k coins | +59.2% | +24.2% |
+| Patri Guijarro | 90 | Liga F | 75k coins | +45.6% | +26.1% |
+| Sofie Junge Pedersen | 86 | Liga F | 29k coins | +45% | +68.1% |
 | Ona Batlle | 90 | Liga F | 40k coins | +33.3% | +6.7% |
-| Claudia Pina | 88 | Liga F | 240k coins | +25.7% | +39.5% |
-| Claudia Pina | 92 | Liga F | 1.28M coins | +22.9% | +13.6% |
-| Caroline Weir | 89 | Liga F | 27k coins | +22.5% | +32.9% |
-| Salma Paralluelo | 86 | Liga F | 747k coins | +15.3% | +10% |
-| Caroline Graham Hansen | 92 | Liga F | 370k coins | +6.3% | +2.8% |
-| Cristina Cubedo | 84 | Liga F | 40k coins | +4.5% | +14.9% |
+| Claudia Pina | 92 | Liga F | 1.28M coins | +28% | +18.2% |
+| Caroline Weir | 89 | Liga F | 27k coins | +22.5% | +43.4% |
+| Claudia Pina | 88 | Liga F | 240k coins | +17.6% | +30.7% |
+| Salma Paralluelo | 86 | Liga F | 747k coins | +15.6% | +9.9% |
+| Claudia Pina | 88 | Liga F | 445k coins | +11.4% | +7.1% |
+| Aitana Bonmatí | 97 | Liga F | 2.88M coins | +11.1% | +52.7% |
 
 
-### Análise das altas
-
-- **Sofie Junge Pedersen (86)** subiu **+46.9%** em 24h, a **29k coins** (faixa do dia: 17k–34k). Está +26% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Patri Guijarro (90)** subiu **+41.5%** em 24h, a **75k coins** (faixa do dia: 44k–75k). Está +42% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Ona Batlle (90)** subiu **+33.3%** em 24h, a **40k coins** (faixa do dia: 28k–40k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Fiamma Benítez lidera as altas com um impressionante aumento de 59.2% em 24h, atingindo 28k coins com 57% de probabilidade de alta. Patri Guijarro também se destaca com alta de 45.6% a 75k coins, enquanto Sofie Junge Pedersen sobe 45% para 29k coins, reforçando a força das cartas de rating 86 e 90.
 
 
-## 🔴 Maiores baixas (24h)
+## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Medina | 86 | Liga F | 27k coins | -32.7% | +18.9% |
-| Emilie Nautnes | 84 | Liga F | 32k coins | -27.6% | -28.5% |
-| Elba Vergés | 84 | Liga F | 30k coins | -26.8% | -13% |
-| Rocío Gálvez | 85 | Liga F | 23k coins | -21.8% | +57.6% |
-| Esperanza Pizarro | 84 | Liga F | 34k coins | -17.5% | -14.9% |
-| Esmee Brugts | 88 | Liga F | 32k coins | -15.3% | -0.8% |
-| Fiamma Benítez | 84 | Liga F | 42k coins | -10.6% | -10.1% |
-| Ainhoa Marín | 83 | Liga F | 30k coins | -9.2% | -9.2% |
-| Alexia Putellas | 92 | Liga F | 49k coins | -9.1% | +23.5% |
-| Claudia Pina | 95 | Liga F | 1.55M coins | -9% | +12.6% |
+| Elba Vergés | 84 | Liga F | 35k coins | -26.8% | -13% |
+| Claudia Pina | 95 | Liga F | 1.55M coins | -20.5% | +6.9% |
+| Emilie Nautnes | 84 | Liga F | 32k coins | -20.2% | -21.2% |
+| Andrea Medina | 86 | Liga F | 26k coins | -20.1% | +18.9% |
+| Rocío Gálvez | 85 | Liga F | 23k coins | -19.8% | +57.6% |
+| Esperanza Pizarro | 84 | Liga F | 42k coins | -17.5% | -14.9% |
+| Esmee Brugts | 88 | Liga F | 31k coins | -16% | -1.6% |
+| Luany | 88 | Liga F | 26k coins | -15.7% | +21.4% |
+| Caroline Graham Hansen | 95 | Liga F | 687k coins | -13.2% | -5.1% |
+| Athenea | 86 | Liga F | 38k coins | -9.2% | +30.8% |
 
 
-### Análise das baixas
-
-- **Andrea Medina (86)** caiu **-32.7%** em 24h, a **27k coins** (faixa do dia: 21k–40k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
-
-- **Emilie Nautnes (84)** caiu **-27.6%** em 24h, a **32k coins** (faixa do dia: 29k–50k). Está -23% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Elba Vergés (84)** caiu **-26.8%** em 24h, a **30k coins** (faixa do dia: 30k–45k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Elba Vergés registra a maior queda com -26.8% em 24h, caindo para 35k coins, seguida de perto por Claudia Pina (95) com -20.5% a 1.55M coins. Emilie Nautnes e Andrea Medina também perdem mais de 20% de valor, sinalizando correção em cartas de rating 84 e 86 que podem estar sobrevalorizadas.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 O que fazer hoje
+Recomenda-se comprar as cartas em alta como Fiamma Benítez e Patri Guijarro para curto prazo, aproveitando o sentimento positivo do mercado. Evite segurar Elba Vergés e Claudia Pina (95) devido às quedas acentuadas, e considere lucrar com as cartas de rating 84 que estão em correção.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Sofie Junge Pedersen (86, Liga F), com +46.9% em 24h, a 29k coins no PC.
+Fiamma Benítez (86, Liga F), com +59.2% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Andrea Medina (86), -32.7% em 24h, a 27k coins.
+Elba Vergés (84), -26.8% em 24h, a 35k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 22 em queda (média 2.06%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 18 cartas em alta contra 28 em queda (média 2.52%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+**Posso confiar nos preços e previsões do FutQuant?**  
+Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
 > 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
