@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:07:50.000Z
+pubDatetime: 2026-06-19T19:08:06.000Z
 title: "Liga F no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Andreia Jacinto (88, Liga F), com +50% em 24h, a 25k coins no Console (PS)."
+    a: "Estefanía Banini (89, Liga F), com +40.3% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Esperanza Pizarro (84), -26% em 24h, a 37k coins."
+    a: "Patri Guijarro (91), -34.1% em 24h, a 49k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Alexia Putellas (92) — 95% de probabilidade de alta, a 156k coins."
+    a: "Pelo modelo FutQuant, Caroline Weir (87) — 95% de probabilidade de alta, a 32k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 16 cartas em alta contra 25 em queda (média -0.5%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 20 cartas em alta contra 24 em queda (média -0.82%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O cenário do mercado da Liga F em consoles PlayStation para o dia 19 de junho de 2026 apresenta uma dinâmica claramente desfavorável para os holders, caracterizada por um sentimento generalizado de baixa que afeta a maioria dos ativos negociados nas últimas 24 horas. Com um balanço negativo que registra 25 quedas contra apenas 16 altas, a média de variação diária situou-se em -0.5%, indicando uma liquidez tímida e uma pressão vendedora constante que busca explorar qualquer oportunidade de saída a preços reduzidos. Este ambiente de incerteza exige uma leitura atenta dos fluxos de compra e venda, pois a predominância das quedas sugere que muitos traders estão realizando lucros ou cortando perdas em posições que não se sustentaram nas expectativas iniciais de valorização. A volatilidade observada não é uniforme, criando bolsões de oportunidade isolados em meio a uma tendência descendente mais ampla, o que obriga o analista a filtrar ruídos e focar estritamente nos ativos com fundamentos sólidos ou movimentos impulsivos claros. O tom do dia é de cautela extrema, onde a paciência e a disciplina para esperar confirmações de tendências são mais valiosas do que a especulação agressiva em ativos sem suporte de demanda consistente.
+O mercado de Liga F no console PlayStation apresenta-se hoje com um viés lateral consolidado, onde a ausência de um catalisador central gera uma volatilidade contida mas com oportunidades pontuais claras para traders ágeis. Com uma média de variação negativa de apenas 0.82% nas últimas 24 horas, distribuída entre 20 altas e 24 quedas, o cenário indica que a liquidez está fragmentada, exigindo precisão cirúrgica nas entradas e saídas para evitar perdas por slippage excessivo. A instabilidade não é aleatória, mas sim reativa a pequenas flutuações de demanda em metas específicas e ajustes de preço de jogadores de elite, criando um ambiente onde o timing é mais crucial do que a simples acumulação de ativos. Operadores devem manter vigilância constante, pois a falta de direção clara significa que tendências de curto prazo podem se inverter rapidamente, penalizando aqueles que mantêm posições abertas por tempo demais sem um gatilho de venda definido. Esta neutralidade estatística mascara movimentos internos significativos, onde certos perfis de jogadores estão absorvendo capital enquanto outros sofrem correções abruptas, definindo o tom de cautela otimista que permeia a comunidade de trading neste ciclo.
 
-> 🟢 **Maior alta:** Andreia Jacinto (88) **+50%** · 🔴 **Maior baixa:** Esperanza Pizarro (84) **-26%**
+> 🟢 **Maior alta:** Estefanía Banini (89) **+40.3%** · 🔴 **Maior baixa:** Patri Guijarro (91) **-34.1%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 25k coins | +50% | +76.8% |
-| Ewa Pajor | 89 | Liga F | 104k coins | +32.5% | +4.5% |
-| Nerea Nevado | 89 | Liga F | 25k coins | +21.7% | +26.2% |
+| Estefanía Banini | 89 | Liga F | 22k coins | +40.3% | +50% |
+| Irene Paredes | 88 | Liga F | 41k coins | +27.7% | +31.7% |
+| Andreia Jacinto | 88 | Liga F | 25k coins | +22% | +78.6% |
+| Ewa Pajor | 89 | Liga F | 92k coins | +19.4% | -6.1% |
+| Ane Etxezarreta | 86 | Liga F | 21k coins | +15.3% | +23.9% |
 | Sara Holmgaard | 80 | Liga F | 45k coins | +13.2% | -4.3% |
-| Alexia Putellas | 92 | Liga F | 156k coins | +10.3% | +12.7% |
-| Amaiur Sarriegi | 88 | Liga F | 65k coins | +8.3% | +30% |
-| Salma Paralluelo | 86 | Liga F | 430k coins | +8.3% | +16.7% |
-| Caroline Graham Hansen | 95 | Liga F | 567k coins | +6.1% | +4.2% |
-| Fiamma Benítez | 84 | Liga F | 45k coins | +5.9% | +1.1% |
-| Patri Guijarro | 90 | Liga F | 60k coins | +5.3% | +38.4% |
+| Lauri | 83 | Liga F | 24k coins | +11.9% | +9.3% |
+| Caroline Graham Hansen | 92 | Liga F | 152k coins | +11.5% | +46% |
+| Allegra Poljak | 86 | Liga F | 32k coins | +8.3% | 0% |
+| Rocío Gálvez | 88 | Liga F | 28k coins | +7.7% | +72.3% |
 
 
-Dentre os poucos ativos que conseguiram defiar a gravidade do mercado, destaca-se Andreia Jacinto, card 88 da Liga F, que registrou um impressionante aumento de 50% em 24 horas, atingindo a marca de 25k coins, embora a probabilidade de continuidade dessa alta seja baixa, com apenas 8%, sugerindo um movimento isolado ou especulativo de curto prazo. Ewa Pajor, no card 89, apresentou uma alta sólida de 32.5%, encerrando o dia em 104k coins, com uma probabilidade de alta de 27% que indica uma certa sustentação na demanda, possivelmente ligada a necessidades específicas de squads ou pacotes de itens que elevaram sua utilidade imediata. Nerea Nevado, também card 89, subiu 21.7% para 25k coins, mas com apenas 5% de probabilidade de alta futura, o que alerta para a possibilidade de uma correção rápida assim que o hype momentâneo se dissipar. Sara Holmgaard, card 80, teve um aumento de 13.2% para 45k coins, destacando-se pela alta probabilidade de continuidade de 68%, o que a torna um candidato interessante para operações de curto prazo com melhor custo-benefício. Alexia Putellas, card 92, registrou uma alta de 10.3% para 156k coins, com uma robusta probabilidade de alta de 95%, confirmando seu status de ativo premium com demanda estrutural forte, enquanto Amaiur Sarriegi (88) subiu 8.3% para 65k coins com 93% de chance de continuar subindo, e Salma Paralluelo (86) cresceu 8.3% para 430k coins com 53% de probabilidade, mostrando que até os ativos de alto valor estão encontrando compradores dispostos a pagar o prêmio pela qualidade.
+A liderança das altas é comandada por Estefanía Banini, que registrou um impressionante aumento de 40.3% em 24 horas, atingindo os 22 mil coins, um movimento impulsionado pela sua probabilidade de alta de 27% que atraiu compradores de curto prazo buscando lucros rápidos em ativos de rating 89. Em seguida, Ewa Pajor surpreende o mercado com uma alta de 19.4%, cotada a 92 mil coins, onde sua probabilidade de alta de 27% sugere que investidores institucionais ou bots estão acumulando posições para eventos futuros, apesar do preço elevado que inibe o varejo. Irene Paredes também se destaca com 27.7% de valorização, fechando a 41 mil coins, mas sua baixa probabilidade de alta de 5% indica que este movimento pode ser efêmero, possivelmente devido a uma correção de preço anterior ou demanda pontual de times específicos. Andreia Jacinto subiu 22% para 25 mil coins, com uma probabilidade de alta de 8%, reforçando a ideia de que ativos de rating 88 estão sofrendo volatilidade acidental, onde a falta de suporte técnico robusto torna a venda imediata a estratégia mais segura. Por fim, Caroline Graham Hansen, a carta de maior rating com 92, subiu 11.5% para 152 mil coins, e sua probabilidade de alta de 38% demonstra que mesmo os ativos premium estão sujeitos a pressões de mercado, embora com menor amplitude relativa devido ao seu alto valor intrínseco e liquidez reduzida.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Esperanza Pizarro | 84 | Liga F | 37k coins | -26% | -9.8% |
-| Claudia Pina | 87 | Liga F | 142k coins | -19.6% | +12.5% |
-| Luany | 88 | Liga F | 23k coins | -18.8% | +8.3% |
-| Alexia Putellas | 92 | Liga F | 60k coins | -16.8% | +0.9% |
-| Claudia Pina | 92 | Liga F | 479k coins | -13.8% | +8.5% |
-| Emilie Nautnes | 84 | Liga F | 37k coins | -12.7% | -0.7% |
-| Claudia Pina | 88 | Liga F | 92k coins | -11.9% | -9.3% |
-| Claudia Pina | 88 | Liga F | 193k coins | -7.3% | +6.1% |
-| Alexia Putellas | 95 | Liga F | 416k coins | -7.1% | -14.9% |
-| Cristina Cubedo | 84 | Liga F | 40k coins | -7.1% | -7.1% |
+| Patri Guijarro | 91 | Liga F | 49k coins | -34.1% | -1.7% |
+| Esperanza Pizarro | 84 | Liga F | 35k coins | -28.6% | -14.6% |
+| Ane Azkona | 88 | Liga F | 52k coins | -28.1% | -36% |
+| Linda Caicedo | 87 | Liga F | 38k coins | -27.1% | -12.4% |
+| Alexia Putellas | 92 | Liga F | 50k coins | -26.1% | -10.5% |
+| Dolores Silva | 84 | Liga F | 29k coins | -23.8% | -15.5% |
+| Claudia Pina | 87 | Liga F | 101k coins | -20.8% | +6% |
+| Claudia Pina | 88 | Liga F | 80k coins | -17.5% | -19.1% |
+| Cristina Cubedo | 84 | Liga F | 36k coins | -14.3% | -15.3% |
+| Amaiur Sarriegi | 88 | Liga F | 65k coins | -12.1% | -1.5% |
 
 
-O lado negativo do mercado foi dominado por quedas significativas, com Esperanza Pizarro, card 84, liderando as perdas com uma queda de 26% em 24 horas, atingindo 37k coins, apesar de ainda manter uma probabilidade de alta de 58%, o que sugere que o fundo pode estar próximo e que a venda excessiva foi impulsiva. Claudia Pina, card 87, sofreu uma desvalorização de 19.6% para 142k coins, com probabilidade de alta de 46%, indicando uma incerteza sobre sua direção futura e um risco considerável para quem mantém posições sem proteção de stop-loss. Luany, card 88, caiu 18.8% para 23k coins, mas surpreende com uma probabilidade de alta de 95%, o que caracteriza uma oportunidade clássica de 'compra no pânico', onde o preço foi depreciado artificialmente por vendas em massa, mas o valor intrínseco e a demanda futura permanecem fortes. Alexia Putellas, card 92, registrou uma queda de 16.8% para 60k coins em uma variação de preço distinta, com apenas 5% de probabilidade de alta, sugerindo que esta versão específica do card pode estar enfrentando uma saturação de oferta ou perda de utilidade em comparação com outras versões. Claudia Pina, card 92, caiu 13.8% para 479k coins com 50% de probabilidade de alta, refletindo a volatilidade típica de ativos de alto custo, enquanto Emilie Nautnes (84) caiu 12.7% para 37k coins com 68% de chance de recuperação, e outras versões de Claudia Pina (88) sofreram quedas de 11.9% e 7.3%, respectivamente, para 92k e 193k coins, consolidando a tese de que a oferta excedeu a demanda para esses perfis específicos neste ciclo de mercado.
+Do lado das perdas, Patri Guijarro lidera o declínio com uma queda brutal de 34.1%, caindo para 49 mil coins, um movimento alarmante dado que sua probabilidade de alta é de 95%, o que sugere fortemente que este preço atual representa uma oportunidade de compra extrema para o modelo preditivo. Esperanza Pizarro também sofreu uma correção significativa de 28.6%, atingindo 35 mil coins, com uma probabilidade de alta de 58% que indica incerteza sobre a sustentabilidade da queda, mas que ainda assim atrai compradores de risco dispostos a apostar em uma reversão técnica. Ane Azkona despencou 28.1% para 52 mil coins, e sua probabilidade de alta de apenas 5% alerta traders a evitarem essa carta, pois o modelo prevê que a queda pode se estender ou o ativo pode permanecer desvalorizado por um período prolongado sem suporte. Linda Caicedo perdeu 27.1% para 38 mil coins, mas, assim como Guijarro, possui uma probabilidade de alta de 95%, configurando um dos melhores setups de 'buy the dip' do dia para traders com tolerância a risco e capital disponível para acumulação. Alexia Putellas, com rating 92, caiu 26.1% para 50 mil coins, e sua probabilidade de alta de 5% é um sinal de alerta vermelho, indicando que a demanda por esta versão específica da carta está enfraquecendo drasticamente, possivelmente devido a atualizações de meta ou novos lançamentos que a tornaram obsoleta temporariamente.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Alexia Putellas | 92 | 156k coins | 200k coins | 95% |
-| Luany | 88 | 23k coins | 26k coins | 95% |
-| Alexia Putellas | 91 | 16k coins | 18k coins | 95% |
-| Patri Guijarro | 90 | 60k coins | 73k coins | 95% |
 | Caroline Weir | 87 | 32k coins | 38k coins | 95% |
+| Patri Guijarro | 91 | 49k coins | 56k coins | 95% |
+| Lauri | 83 | 24k coins | 28k coins | 95% |
+| Luany | 88 | 27k coins | 31k coins | 95% |
+| Fiamma Benítez | 86 | 19k coins | 22k coins | 95% |
+| Alexia Putellas | 90 | 17k coins | 20k coins | 95% |
 | Ane Azkona | 86 | 32k coins | 37k coins | 93% |
 | Amaiur Sarriegi | 88 | 65k coins | 73k coins | 93% |
-| Pernille Harder | 87 | 32k coins | 37k coins | 93% |
 
 
-O modelo de previsão projeta altas significativas para Alexia Putellas (92, Liga F) com 95% de probabilidade a 156k coins, Luany (88, Liga F) com 95% de probabilidade a 23k coins, Alexia Putellas (91, Liga F) com 95% de probabilidade a 16k coins, Patri Guijarro (90, Liga F) com 95% de probabilidade a 60k coins, Caroline Weir (87, Liga F) com 95% de probabilidade a 32k coins, Ane Azkona (86, Liga F) com 93% de probabilidade a 32k coins, Amaiur Sarriegi (88, Liga F) com 93% de probabilidade a 65k coins e Pernille Harder (87, Liga F) com 93% de probabilidade a 32k coins.
+O modelo preditivo identifica um conjunto robusto de oportunidades de compra, liderado por Caroline Weir, que tem 95% de probabilidade de alta a 32 mil coins, sugerindo uma forte convergência de demanda iminente para este ativo de rating 87. Patri Guijarro reafirma sua força como oportunidade de compra, com 95% de probabilidade de alta a 49 mil coins, confirmando que a queda recente foi uma falha de preço e não uma tendência estrutural, oferecendo margem de lucro considerável. Lauri também aparece com 95% de probabilidade de alta a 24 mil coins, beneficiando-se do momento positivo recente de 11.9% e da alta probabilidade de continuidade, o que o torna um ativo de baixo risco e retorno rápido. Luany, cotada a 27 mil coins com 95% de probabilidade de alta, representa outra oportunidade sólida em rating 88, onde a liquidez deve aumentar conforme os traders buscam alternativas mais baratas às elites. Fiamma Benítez, a 19 mil coins com 95% de probabilidade de alta, oferece a melhor relação risco-retorno em termos de entrada de capital, ideal para contas com menor poder de compra. Alexia Putellas (versão 90) também tem 95% de probabilidade de alta a 17 mil coins, divergindo da queda da versão 92 e indicando uma segmentação clara de valor entre as diferentes versões das mesmas jogadoras. Ane Azkona (versão 86) e Amaiur Sarriegi (88) completam o grupo com 93% de probabilidade de alta, a 32 mil e 65 mil coins respectivamente, sugerindo que o mercado está reavaliando ativos de rating médio-alto com fundamentos sólidos para equipes competitivas.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Rocío Gálvez | 88 | 28k coins | -15.6% |
+| Vicky López | 87 | 36k coins | -24% |
+| Alexia Putellas | 92 | 50k coins | -17.5% |
+| Irene Paredes | 88 | 41k coins | -34.2% |
+| Laia Aleixandri | 86 | 35k coins | -15.6% |
+| Claire Lavogez | 88 | 16k coins | -24% |
 | Sara Däbritz | 86 | 30k coins | -17.3% |
-| Alexia Putellas | 92 | 60k coins | -17.5% |
-| Vicky López | 87 | 35k coins | -24% |
-| Laia Aleixandri | 86 | 34k coins | -15.6% |
-| Nerea Nevado | 89 | 25k coins | -17.1% |
-| Allegra Poljak | 87 | 23k coins | -15.7% |
-| Andreia Jacinto | 88 | 25k coins | -12.6% |
-| Claudia Pina | 88 | 92k coins | -12.6% |
+| Alexia Putellas | 95 | 370k coins | -17.4% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia ideal para hoje deve focar na acumulação seletiva de ativos que sofreram quedas acentuadas mas possuem alta probabilidade de recuperação, como Luany (88) e Alexia Putellas (92), que oferecem um ponto de entrada seguro devido à sua forte probabilidade de alta de 95% conforme o modelo. É recomendável segurar posições em ativos premium como Alexia Putellas (92) e Caroline Graham Hansen (95), pois sua demanda estrutural tende a superar as flutuações de curto prazo, garantindo estabilidade de longo prazo mesmo em dias de mercado negativo. Traders agressivos podem considerar a compra de Sara Holmgaard (80) e Amaiur Sarriegi (88), que combinam alta recente com probabilidades elevadas de continuidade, permitindo ganhos rápidos antes de uma possível saturação. Por outro lado, deve-se evitar novas entradas em Claudia Pina (87 e 92) e Esperanza Pizarro (84) até que haja sinais claros de estabilização dos preços, pois a probabilidade de alta ainda é insuficiente para compensar o risco de queda adicional. O timing de venda para lucros rápidos deve ser executado em Andreia Jacinto (88) e Nerea Nevado (89), já que suas altas recentes não são sustentáveis pelas baixas probabilidades de continuidade, exigindo realização imediata para evitar reversões. A disciplina em respeitar os dados de probabilidade e evitar a emoção diante das quedas é fundamental para navegar neste dia de mercado em baixa, priorizando a preservação de capital e a exploração de ineficiências de preço pontuais.
+A estratégia ideal para hoje é focar na arbitragem entre as quedas com alta probabilidade de reversão e as altas com baixa probabilidade de continuidade, comprando agressivamente Patri Guijarro e Linda Caicedo enquanto se vende Estefanía Banini e Irene Paredes para realizar lucros imediatos. É crucial evitar a compra de Alexia Putellas (92) e Ane Azkona (88) devido às suas baixas probabilidades de alta, pois segurar esses ativos pode resultar em perdas de capital significativas se o mercado não reagir positivamente nas próximas horas. Traders devem manter posições curtas em ativos de rating 80-84, como Sara Holmgaard e Lauri, usando os ganhos rápidos para financiar compras mais seguras em ativos de rating 87-89 com previsões de 95% de alta. O timing é essencial: entrar nas compras de Patri Guijarro e Caroline Weir logo ao abrir o mercado para capturar a volatilidade inicial, e definir ordens de venda limitadas logo acima dos preços atuais para garantir saída em caso de falha na reversão. Monitorar de perto Claudia Pina, que teve duas versões com quedas distintas, para identificar se há uma tendência de desvalorização geral do ativo ou se é uma anomalia específica de rating, ajustando a estratégia conforme novos dados surgirem ao longo do dia.
 
 
 ## ⚙️ A engine por tras deste post
@@ -114,16 +114,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Andreia Jacinto (88, Liga F), com +50% em 24h, a 25k coins no Console (PS).
+Estefanía Banini (89, Liga F), com +40.3% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Esperanza Pizarro (84), -26% em 24h, a 37k coins.
+Patri Guijarro (91), -34.1% em 24h, a 49k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Alexia Putellas (92) — 95% de probabilidade de alta, a 156k coins.
+Pelo modelo FutQuant, Caroline Weir (87) — 95% de probabilidade de alta, a 32k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 16 cartas em alta contra 25 em queda (média -0.5%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 20 cartas em alta contra 24 em queda (média -0.82%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
