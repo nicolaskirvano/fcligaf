@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:09:25.000Z
+pubDatetime: 2026-06-20T13:09:24.000Z
 title: "Melhores investimentos em Liga F no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Irene Paredes (88, Liga F) lidera, com +41.7% em 7 dias a 42k coins no PC, e o modelo dá 37% de chance de seguir subindo."
+    a: "Patri Guijarro (90, Liga F) lidera, com +60.6% em 7 dias a 55k coins no PC, e o modelo dá 63% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Irene Paredes (88) acumula **+41.7% em 7 dias** a 42k coins.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+60.6% em 7 dias** a 55k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-A dinâmica do mercado do EA FC Ultimate Team em PC apresenta uma oportunidade interessante para investidores atentos às tendências de curto prazo, especialmente no contexto da Liga F. Ao analisarmos os dados de 20 de junho de 2026, observamos que a volatilidade recente tem favorecido cartas específicas, com variações significativas em apenas 24 horas. Para quem busca lucros rápidos e eficientes, o foco deve estar nas jogadoras que demonstram não apenas um aumento percentual no preço, mas também uma probabilidade estatística robusta de continuidade dessa alta. A combinação de volume de negociação e expectativa de valorização é o que define a entrada ideal no mercado atual, separando as apostas arriscadas das oportunidades mais seguras para o portfólio de um usuário.
+No cenário dinâmico do mercado do EA FC Ultimate Team para PC, a data de 20 de junho de 2026 marca um momento crucial para os investidores focados na Liga F. A análise das tendências de valorização dos últimos sete dias revela padrões claros de demanda, impulsionados principalmente por atualizações de Squad Battles, eventos de fim de semana e a escassez relativa de certos perfis de jogadoras. Ao observarmos o comportamento do mercado, fica evidente que a volatilidade não é aleatória, mas sim uma resposta direta à utilidade tática das cartas e à percepção de valor pela comunidade de jogadores. Portanto, identificar quais ativos possuem maior probabilidade de apreciação exige uma leitura atenta dos indicadores de curto prazo, especialmente aqueles que demonstram crescimento consistente nas últimas 24 horas.
 
-Dentre as opções disponíveis, a carta de Mapi León se destaca como a líder em momentum absoluto. Com uma impressionante alta de 20,3% em apenas 24 horas, a defensora de rating 90 está atualmente cotada a 40 mil coins. Embora a probabilidade calculada de continuidade dessa tendência seja de 47%, o salto percentual é o maior do grupo analisado, sugerindo uma demanda repentina ou uma escassez momentânea de oferta. Para investidores agressivos, essa carta oferece o potencial de retorno mais imediato, embora exija monitoramento constante, já que altas porcentagens iniciais podem ser seguidas por correções rápidas se a probabilidade não se sustentar nos próximos intervalos de tempo.
+Entre as opções mais promissoras para entrada imediata, destaca-se Patri Guijarro. Com uma nota geral de 90, esta carta da Liga F apresentou uma impressionante alta de 18,9% em apenas 24 horas, consolidando-se como o ativo mais quente do momento. Atualmente negociada na faixa de 55k coins, a probabilidade de continuação da tendência de alta é estimada em 63%, o que a torna a aposta mais segura para quem busca lucros de curto prazo. A alta avaliação de sua carta reflete não apenas suas estatísticas superiores, mas também sua versatilidade em formações ofensivas, tornando-a um item cobiçado por jogadores que priorizam eficiência no ataque.
 
-Outro ponto crucial na análise é Mari José, que apresenta a segunda maior variação positiva em 24 horas, com 19,8% de aumento. Sua carta de rating 86 está sendo negociada a um preço mais elevado, de 50 mil coins, o que indica que ela é um ativo de maior valor absoluto no mercado. Com uma probabilidade de alta de 45%, ela se mantém como uma aposta sólida, especialmente para aqueles que preferem trabalhar com cartas de maior valor unitário. A correlação entre o preço elevado e a variação significativa sugere que grandes investidores ou construtores de times específicos podem estar acumulando essa carta, o que pode impulsionar ainda mais seu preço nas próximas horas.
+Caroline Weir oferece uma alternativa interessante para investidores com capital mais reduzido ou que desejam diversificar portfólio. A jogadora, com 87 de rating e listada na Liga F, registrou um aumento de 3,8% em 24 horas, com uma probabilidade de alta de 60%. Comercializada por 28k coins, sua acessibilidade permite uma entrada de menor risco. A consistência do seu preço sugere uma demanda estável, impulsionada provavelmente por seu desempenho sólido em eventos diários, onde jogadores buscam opções confiáveis sem comprometer grandes somas de moedas.
 
-Por outro lado, a carta de Rocío Gálvez merece atenção especial devido à sua alta probabilidade de sucesso. Com uma variação de 11,7% em 24 horas e um preço acessível de 26 mil coins, a lateral de rating 88 possui a maior probabilidade de alta do grupo, estimada em 72%. Esse indicador estatístico é extremamente favorável, indicando que a tendência de valorização é mais consistente e menos volátil do que as outras opções. Para investidores que priorizam a segurança e a previsibilidade sobre retornos explosivos, a entrada em Rocío Gálvez parece ser a decisão mais racional, equilibrando risco e recompensa de forma eficiente.
+Outro nome que merece atenção é Fiamma Benítez. A meia da Liga F, avaliada em 86, mostrou um crescimento de 7,5% nas últimas 24 horas, com uma probabilidade de alta de 57%. Priced em 29k coins, sua valorização parece ser impulsionada por sua eficácia em jogos de meio campo, onde o controle de posse e finalizações são cruciais. O movimento de preço indica que há um interesse crescente por cartas que equilibram custo e performance, fazendo de Benítez uma peça chave para esquemas táticos equilibrados.
 
-As cartas de Irene Paredes e Fiamma Benítez oferecem perfis intermediários interessantes para diversificar a estratégia. Irene Paredes, com rating 88 e preço de 42 mil coins, subiu 6,2% em 24 horas e possui uma probabilidade de alta de 37%. Já Fiamma Benítez, de rating 86 e valorada em 30 mil coins, registrou alta de 9,1% com 57% de probabilidade de continuidade. A carta de Fiamma, em particular, apresenta um equilíbrio atraente entre crescimento percentual e probabilidade de sucesso, sendo uma opção segura para quem não deseja entrar nas carteiras de maior risco como as de Mapi León ou Mari José.
+Athenea também se destaca na análise, com 86 de rating e uma valorização de 6,7% em 24 horas. Sua probabilidade de alta é de 53%, e o preço atual de 40k coins posiciona-a como uma opção intermediária. A tendência sugere que sua utilidade em defesas ou meias-defesas está sendo reavaliada positivamente pela comunidade, possivelmente devido a ajustes de meta ou novas estratégias que privilegiam suas atributos específicos. É uma carta que oferece um equilíbrio razoável entre risco e retorno potencial.
 
-Em conclusão, a decisão de investir deve ser guiada pelo perfil de risco individual. Para maximizar a segurança, Rocío Gálvez é a escolha mais forte devido à sua alta probabilidade de 72%. Para buscar maiores retornos absolutos e percentuais, Mapi León e Mari José oferecem o potencial mais alto, apesar de probabilidades mais moderadas. Irene Paredes e Fiamma Benítez servem como complementos estratégicos, permitindo uma abordagem diversificada. É fundamental lembrar que essas tendências são baseadas nos dados de 24 horas e podem mudar rapidamente, exigindo vigilância constante do investidor no mercado do EA FC.
+Por fim, Mari José, com 86 de rating e preço de 50k coins, apresenta uma alta de 4,7% em 24 horas e uma probabilidade de alta de 45%. Embora a probabilidade seja ligeiramente inferior às anteriores, o volume de negociação e a estabilidade do preço indicam uma base sólida. Para investidores mais conservadores, ela representa uma opção de menor volatilidade, ideal para quem busca preservar capital enquanto aguarda oportunidades de maior impacto no mercado da Liga F.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,24 +45,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Irene Paredes | 88 | Liga F | 42k coins | +6.2% | +41.7% | 37% |
-| Rocío Gálvez | 88 | Liga F | 26k coins | +11.7% | +28% | 72% |
-| Fiamma Benítez | 86 | Liga F | 30k coins | +9.1% | +27.7% | 57% |
-| Mari José | 86 | Liga F | 50k coins | +19.8% | +9.3% | 45% |
-| Mapi León | 90 | Liga F | 40k coins | +20.3% | +7.4% | 47% |
+| Patri Guijarro | 90 | Liga F | 55k coins | +18.9% | +60.6% | 63% |
+| Caroline Weir | 87 | Liga F | 28k coins | +3.8% | +25% | 60% |
+| Fiamma Benítez | 86 | Liga F | 29k coins | +7.5% | +22.3% | 57% |
+| Athenea | 86 | Liga F | 40k coins | +6.7% | +14.3% | 53% |
+| Mari José | 86 | Liga F | 50k coins | +4.7% | +13% | 45% |
 
 
 ## 📈 Análise dos destaques
 
-- **Irene Paredes (88)** — 42k coins, **+41.7% em 7 dias** (+6.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 55k coins, **+60.6% em 7 dias** (+18.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rocío Gálvez (88)** — 26k coins, **+28% em 7 dias** (+11.7% em 24h). Preço -9% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **72% de chance de seguir subindo**.
+- **Caroline Weir (87)** — 28k coins, **+25% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Fiamma Benítez (86)** — 30k coins, **+27.7% em 7 dias** (+9.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fiamma Benítez (86)** — 29k coins, **+22.3% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mari José (86)** — 50k coins, **+9.3% em 7 dias** (+19.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Athenea (86)** — 40k coins, **+14.3% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mapi León (90)** — 40k coins, **+7.4% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mari José (86)** — 50k coins, **+13% em 7 dias** (+4.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Irene Paredes (88, Liga F) lidera, com +41.7% em 7 dias a 42k coins no PC, e o modelo dá 37% de chance de seguir subindo.
+Patri Guijarro (90, Liga F) lidera, com +60.6% em 7 dias a 55k coins no PC, e o modelo dá 63% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
