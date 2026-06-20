@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:08:24.000Z
+pubDatetime: 2026-06-20T22:09:27.000Z
 title: "Jogadores baratos de Liga F no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -14.3% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -15.8% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -30.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -33.3% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -16.1% |
+| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | -8.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -37.8% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -34.1% |
+| Claire Lavogez | 88 | ST | Liga F | 15k coins | -3.2% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins**
 
 
 ## Por que estas cartas?
