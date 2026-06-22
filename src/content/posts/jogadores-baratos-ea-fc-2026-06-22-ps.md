@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T16:07:06.000Z
+pubDatetime: 2026-06-22T19:07:06.000Z
 title: "Jogadores baratos de Liga F no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,12 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -8.3% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -34.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -34% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -24.6% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -40.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -40% |
 | Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -27.3% |
 | Rocío Gálvez | 85 | CB | Liga F | 14k coins | -10% |
-| Eva Dios | 85 | CM | Liga F | 15k coins | -3.3% |
 
 
 ## 📈 Destaques
