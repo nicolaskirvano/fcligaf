@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T19:07:06.000Z
+pubDatetime: 2026-06-22T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -24.6% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -40.8% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -19.4% |
+| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | -14.3% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -38.8% |
 | Patri Guijarro | 89 | CDM | Liga F | 3k coins | -40% |
-| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -27.3% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -10% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -30% |
+| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -28.1% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -12.5% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | -42.6% |
+| Andrea Medina | 86 | LB | Liga F | 15k coins | -30.1% |
+| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -20.6% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Rocío Gálvez (85, CB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
