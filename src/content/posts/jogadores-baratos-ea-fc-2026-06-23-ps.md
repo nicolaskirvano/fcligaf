@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T13:07:05.000Z
+pubDatetime: 2026-06-23T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -23% |
-| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | -20.8% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -19.4% |
 | Mapi León | 89 | CB | Liga F | 3k coins | -42.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -40% |
-| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -30.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -38.8% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -39.1% |
 | Claire Lavogez | 88 | ST | Liga F | 14k coins | -16.2% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -23.9% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -8.3% |
-| Andrea Medina | 86 | LB | Liga F | 15k coins | -32.2% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -28.8% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -10% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -31.8% |
+| Edna Imade | 86 | ST | Liga F | 15k coins | -33.3% |
 | Rocío Gálvez | 85 | CB | Liga F | 14k coins | -34.9% |
+| Eva Dios | 85 | CM | Liga F | 15k coins | -4.7% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Andreia Jacinto (88, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
