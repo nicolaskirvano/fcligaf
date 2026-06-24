@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T16:07:05.000Z
+pubDatetime: 2026-06-24T19:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -21% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -11.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -37.5% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -40.8% |
-| Caroline Weir | 89 | CAM | Liga F | 14k coins | -25% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -27.9% |
-| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -14.8% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -19.4% |
+| Aitana Bonmatí | 91 | CM | Liga F | 13k coins | -15.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -38.8% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -34% |
+| Caroline Weir | 89 | CAM | Liga F | 13k coins | -26.2% |
+| Nerea Nevado | 89 | LB | Liga F | 13k coins | -38.6% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -23.3% |
+| Andreia Jacinto | 88 | CM | Liga F | 13k coins | -39.8% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | -13.2% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Weir (89, CAM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
