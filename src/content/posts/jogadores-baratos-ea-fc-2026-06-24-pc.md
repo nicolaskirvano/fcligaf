@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T10:07:09.000Z
+pubDatetime: 2026-06-24T13:07:09.000Z
 title: "Jogadores baratos de Liga F no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -28.6% |
-| Aitana Bonmatí | 91 | CM | Liga F | 13k coins | -22.1% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | -53.6% |
-| Mapi León | 89 | CB | Liga F | 4k coins | -41.7% |
-| Ewa Pajor | 88 | ST | Liga F | 2k coins | -44.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | -33.7% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -31.9% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -17.6% |
+| Mapi León | 89 | CB | Liga F | 4k coins | -38.1% |
+| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -35.6% |
+| Irene Paredes | 88 | CB | Liga F | 2k coins | -44% |
+| Ewa Pajor | 88 | ST | Liga F | 2k coins | -48.3% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ewa Pajor (88, ST)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Irene Paredes (88, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
