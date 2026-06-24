@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T22:07:05.000Z
+pubDatetime: 2026-06-24T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,18 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -18.3% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -18.2% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -38.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -35.4% |
-| Caroline Weir | 89 | CAM | Liga F | 14k coins | -34.9% |
-| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -39.8% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -22.1% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | -38.5% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -32.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +9.4% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -23.9% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | -1.6% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -18.6% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -14.3% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -34% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -33.3% |
+| Nerea Nevado | 89 | LB | Liga F | 14k coins | -35.6% |
+| Andreia Jacinto | 88 | CM | Liga F | 12k coins | -46.8% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | +20.3% |
+| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -22.9% |
 
 
 ## 📈 Destaques
@@ -53,7 +49,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nerea Nevado (89, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
