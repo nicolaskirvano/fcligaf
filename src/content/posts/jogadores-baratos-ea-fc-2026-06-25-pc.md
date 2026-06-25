@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T10:07:09.000Z
+pubDatetime: 2026-06-25T13:07:10.000Z
 title: "Jogadores baratos de Liga F no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -25.4% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -22.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -30.8% |
-| Ewa Pajor | 88 | ST | Liga F | 2k coins | -31.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 11k coins | -39.4% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -28.8% |
+| Aitana Bonmatí | 91 | CM | Liga F | 13k coins | -25.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -22% |
+| Mapi León | 89 | CB | Liga F | 5k coins | -10.2% |
+| Ewa Pajor | 88 | ST | Liga F | 2k coins | -28.6% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ewa Pajor (88, ST)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ewa Pajor (88, ST)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
