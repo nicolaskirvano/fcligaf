@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:07:05.000Z
+pubDatetime: 2026-06-25T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -21.9% |
-| Alexia Putellas | 91 | CM | Liga F | 14k coins | -9.7% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -37% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -26.7% |
-| Nerea Nevado | 89 | LB | Liga F | 14k coins | -28.7% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -8.3% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | -29.7% |
-| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -23.2% |
-| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -28.6% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +7.3% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -22.2% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -28.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -22.7% |
+| Nerea Nevado | 89 | LB | Liga F | 14k coins | -27.5% |
+| Esmee Brugts | 88 | LB | Liga F | 15k coins | -34.1% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | -36.7% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | +9.1% |
 
 
 ## 📈 Destaques
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nerea Nevado (89, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
