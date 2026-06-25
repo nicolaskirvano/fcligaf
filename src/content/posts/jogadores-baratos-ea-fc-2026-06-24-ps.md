@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:07:05.000Z
+pubDatetime: 2026-06-25T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -23.8% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -15.6% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -25% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -18.5% |
 | Mapi León | 89 | CB | Liga F | 3k coins | -34% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -32.7% |
-| Caroline Weir | 89 | CAM | Liga F | 14k coins | -30.4% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -18.3% |
-| Allegra Poljak | 87 | RB | Liga F | 13k coins | -45.7% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -19.1% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -36.5% |
+| Nerea Nevado | 89 | LB | Liga F | 14k coins | -32.9% |
+| Caroline Weir | 89 | CAM | Liga F | 15k coins | -30.4% |
+| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -27.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -40% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -16.4% |
 
 
 ## 📈 Destaques
@@ -49,7 +50,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nerea Nevado (89, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
