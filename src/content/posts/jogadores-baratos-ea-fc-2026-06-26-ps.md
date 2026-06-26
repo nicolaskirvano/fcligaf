@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T10:07:05.000Z
+pubDatetime: 2026-06-26T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 14k coins | -4.8% |
-| Mapi León | 89 | CB | Liga F | 3k coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -2.9% |
-| Nerea Nevado | 89 | LB | Liga F | 13k coins | -44.8% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -15.3% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -16.4% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | -8.9% |
+| Alexia Putellas | 91 | CM | Liga F | 14k coins | -1.7% |
+| Mapi León | 89 | CB | Liga F | 3k coins | +13.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 4k coins | +12.9% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -20% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -35.1% |
 
 
 ## 📈 Destaques
@@ -44,11 +42,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins**
-
-- **Nerea Nevado (89, LB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4k coins**
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
