@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T13:07:06.000Z
+pubDatetime: 2026-06-27T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Weir | 89 | CAM | Liga F | 14k coins | +3.3% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | -12.5% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -5.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 11k coins | -26.9% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -3.4% |
-| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -21.4% |
+| Caroline Weir | 89 | CAM | Liga F | 14k coins | -11.8% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -6.8% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -15.6% |
+| Allegra Poljak | 87 | RB | Liga F | 15k coins | +30.8% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | +3.1% |
+| Eva Dios | 85 | CM | Liga F | 15k coins | +25.5% |
 
 
 ## 📈 Destaques
 
-- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins**
-
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Medina (86, LB)** da Liga F, a apenas **14k coins**
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
