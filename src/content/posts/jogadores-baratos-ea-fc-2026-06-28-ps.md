@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T13:07:05.000Z
+pubDatetime: 2026-06-28T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 28/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (28/06/2026)?"
-    a: "Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
+    a: "Caroline Weir (89, Liga F) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **28/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Esmee Brugts (88) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Caroline Weir (89) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Esmee Brugts | 88 | LB | Liga F | 11k coins | -27.9% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -9.3% |
+| Caroline Weir | 89 | CAM | Liga F | 15k coins | -11.3% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -10.7% |
+| Andreia Jacinto | 88 | CM | Liga F | 12k coins | -37.3% |
+| Esmee Brugts | 88 | LB | Liga F | 13k coins | -10.4% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -4% |
 | Edna Imade | 86 | ST | Liga F | 15k coins | -4.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | -3.4% |
+| Eva Dios | 85 | CM | Liga F | 15k coins | +1.7% |
 
 
 ## 📈 Destaques
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Weir (89, CAM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edna Imade (86, ST)** da Liga F, a apenas **15k coins**
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -63,7 +65,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (28/06/2026)?**  
-Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 11k coins no Console (PS).
+Caroline Weir (89, Liga F) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
