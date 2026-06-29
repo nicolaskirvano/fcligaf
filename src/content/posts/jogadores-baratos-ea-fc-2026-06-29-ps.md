@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T13:07:05.000Z
+pubDatetime: 2026-06-29T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (29/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | -40% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -37.5% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -8.3% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | -5.2% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -37.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -35.5% |
+| Esmee Brugts | 88 | LB | Liga F | 12k coins | -18.6% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | -6.7% |
 | Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -4.2% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | +18.6% |
-| Eva Dios | 85 | CM | Liga F | 12k coins | -28.6% |
-| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +15.1% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +18.8% |
+| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +9.4% |
 
 
 ## 📈 Destaques
@@ -45,9 +44,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
 
 - **Fiamma Benítez (86, CAM)** da Liga F, a apenas **12k coins**
 
