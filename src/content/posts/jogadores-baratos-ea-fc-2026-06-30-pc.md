@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:07:09.000Z
+pubDatetime: 2026-06-30T16:07:09.000Z
 title: "Jogadores baratos de Liga F no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +16.3% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +22.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -54.3% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | -11.9% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +18% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -27.5% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +5.4% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **15k coins**
 
 
 ## Por que estas cartas?
