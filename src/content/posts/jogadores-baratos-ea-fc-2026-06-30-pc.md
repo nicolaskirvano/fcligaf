@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:07:10.000Z
+pubDatetime: 2026-06-30T22:07:09.000Z
 title: "Jogadores baratos de Liga F no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +16.3% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +11.3% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +9.6% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +13.5% |
 | Claire Lavogez | 88 | ST | Liga F | 14k coins | -24.7% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +22.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +34.1% |
+| Eva Dios | 85 | CM | Liga F | 11k coins | -37.7% |
 
 
 ## 📈 Destaques
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins**
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ane Etxezarreta (86, CB)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Eva Dios (85, CM)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
