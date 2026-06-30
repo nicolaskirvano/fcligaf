@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:07:05.000Z
+pubDatetime: 2026-06-30T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,10 +30,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alexia Putellas | 91 | CM | Liga F | 15k coins | +25% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | +15.4% |
+| Claire Lavogez | 88 | ST | Liga F | 15k coins | +13.2% |
 | Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -16.4% |
 | Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +5.9% |
 | Edna Imade | 86 | ST | Liga F | 14k coins | -11.1% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -3.4% |
 | Eva Dios | 85 | CM | Liga F | 14k coins | -19.4% |
 | Rocío Gálvez | 85 | CB | Liga F | 14k coins | +7.4% |
 
@@ -42,7 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins**
 
 - **Fiamma Benítez (86, CAM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
