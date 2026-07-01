@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:07:05.000Z
+pubDatetime: 2026-07-01T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +22.4% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | -7.7% |
-| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -29.2% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +20% |
+| Claire Lavogez | 88 | ST | Liga F | 15k coins | -10.4% |
+| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -27% |
 | Ane Etxezarreta | 86 | CB | Liga F | 14k coins | -6.9% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | -9.7% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -1.7% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | -6.9% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | -6.7% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -3.4% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | -3.6% |
 | Rocío Gálvez | 85 | CB | Liga F | 14k coins | +7.4% |
 
 
@@ -43,13 +43,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Fiamma Benítez (86, CAM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ane Etxezarreta (86, CB)** da Liga F, a apenas **14k coins**
 
-- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
