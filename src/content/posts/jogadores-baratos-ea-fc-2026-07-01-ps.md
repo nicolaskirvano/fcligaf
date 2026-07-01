@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T10:07:05.000Z
+pubDatetime: 2026-07-01T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 14k coins | +20.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -35.5% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -13.8% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | +5.5% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -20.3% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | +8.2% |
-| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -3.7% |
+| Alexia Putellas | 91 | CM | Liga F | 14k coins | +18.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -37.5% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | +6.1% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | 0% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -19% |
+| Edna Imade | 86 | ST | Liga F | 13k coins | -14.3% |
+| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -16.4% |
 
 
 ## 📈 Destaques
@@ -44,9 +44,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins**
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins**
 
 - **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
