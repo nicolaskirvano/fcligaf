@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T22:07:05.000Z
+pubDatetime: 2026-07-02T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 14k coins | +14% |
-| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | +14.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -2.1% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -13% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +7.4% |
+| Alexia Putellas | 91 | CM | Liga F | 14k coins | +12% |
+| Nerea Nevado | 89 | LB | Liga F | 14k coins | +29.8% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | -15.9% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -11.8% |
+| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -13.1% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **14k coins**
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins**
+- **Nerea Nevado (89, LB)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins**
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
+- **Rocío Gálvez (85, CB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
