@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:07:05.000Z
+pubDatetime: 2026-07-03T19:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Allegra Poljak (87, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Allegra Poljak (87) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Esmee Brugts (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,19 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Allegra Poljak | 87 | RB | Liga F | 14k coins | -16.7% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -20.6% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | +12% |
-| Rocío Gálvez | 85 | CB | Liga F | 15k coins | -1.6% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | +5.6% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -16.2% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -8.6% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +1.7% |
 
 
 ## 📈 Destaques
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins**
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eva Dios (85, CM)** da Liga F, a apenas **13k coins**
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rocío Gálvez (85, CB)** da Liga F, a apenas **15k coins**
 
@@ -60,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Allegra Poljak (87, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
