@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:07:05.000Z
+pubDatetime: 2026-07-04T01:07:06.000Z
 title: "Jogadores baratos de Liga F no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | 0% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | +7.7% |
-| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -13.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | -5% |
-| Rocío Gálvez | 85 | CB | Liga F | 13k coins | -10.2% |
-| Eva Dios | 85 | CM | Liga F | 15k coins | +21.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -10% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -11.5% |
+| Allegra Poljak | 87 | RB | Liga F | 12k coins | -16.7% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -16.4% |
+| Rocío Gálvez | 85 | CB | Liga F | 11k coins | -20.3% |
+| Eva Dios | 85 | CM | Liga F | 12k coins | -7.4% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **14k coins**
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rocío Gálvez (85, CB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rocío Gálvez (85, CB)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
