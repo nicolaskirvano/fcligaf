@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T16:07:05.000Z
+pubDatetime: 2026-07-04T19:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,12 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +15% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +27.8% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -9.7% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -17.1% |
-| Eva Dios | 85 | CM | Liga F | 12k coins | -11.1% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +5.3% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +71.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +50% |
+| Nerea Nevado | 89 | LB | Liga F | 15k coins | +4.8% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | +12.7% |
+| Allegra Poljak | 87 | RB | Liga F | 12k coins | -21.9% |
+| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -1.6% |
+| Andrea Medina | 86 | LB | Liga F | 15k coins | -17.2% |
+| Edna Imade | 86 | ST | Liga F | 15k coins | -9.1% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +12.5% |
 
 
 ## 📈 Destaques
@@ -43,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Andrea Medina (86, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nerea Nevado (89, LB)** da Liga F, a apenas **15k coins**
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
 
-- **Eva Dios (85, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
