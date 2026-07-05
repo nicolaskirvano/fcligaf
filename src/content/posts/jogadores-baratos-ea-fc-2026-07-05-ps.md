@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:07:05.000Z
+pubDatetime: 2026-07-05T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 05/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (05/07/2026)?"
-    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **05/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Patri Guijarro (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,29 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +85.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +62.5% |
-| Estefanía Banini | 89 | CM | Liga F | 13k coins | -43.5% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | -1.9% |
-| Allegra Poljak | 87 | RB | Liga F | 14k coins | -15.3% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | -6.7% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -4.5% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +27.1% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | 0% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +24% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +35.3% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | 0% |
+| Allegra Poljak | 87 | RB | Liga F | 13k coins | -7% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | +3.6% |
+| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | +30.4% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | +2% |
+| Rocío Gálvez | 85 | CB | Liga F | 13k coins | +4% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins**
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **13k coins**
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
+- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -68,7 +65,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (05/07/2026)?**  
-Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
