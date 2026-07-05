@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T13:07:05.000Z
+pubDatetime: 2026-07-05T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,24 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 89 | CDM | Liga F | 2k coins | +46.7% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | +7.7% |
-| Allegra Poljak | 87 | RB | Liga F | 13k coins | -10.2% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | -5% |
-| Andrea Medina | 86 | LB | Liga F | 15k coins | +10.6% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | -3.7% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | -20.3% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | -1.9% |
+| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +23.9% |
 
 
 ## 📈 Destaques
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eva Dios (85, CM)** da Liga F, a apenas **13k coins**
 
-- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
-
-- **Andrea Medina (86, LB)** da Liga F, a apenas **15k coins**
+- **Rocío Gálvez (85, CB)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
