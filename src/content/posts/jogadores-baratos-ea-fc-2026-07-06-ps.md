@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T10:07:05.000Z
+pubDatetime: 2026-07-06T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +11.8% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +17.6% |
 | Patri Guijarro | 89 | CDM | Liga F | 2k coins | +21.1% |
-| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -20% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | -6.7% |
+| Estefanía Banini | 89 | CM | Liga F | 13k coins | -30.3% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | 0% |
+| Eva Dios | 85 | CM | Liga F | 15k coins | +29.2% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rocío Gálvez (88, CB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
+
+- **Eva Dios (85, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
