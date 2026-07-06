@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T22:07:05.000Z
+pubDatetime: 2026-07-06T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +35.3% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | 0% |
-| Allegra Poljak | 87 | RB | Liga F | 13k coins | -7% |
-| Edna Imade | 86 | ST | Liga F | 14k coins | +3.6% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | +30.4% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | +2% |
-| Rocío Gálvez | 85 | CB | Liga F | 13k coins | +4% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +21.1% |
+| Estefanía Banini | 89 | CM | Liga F | 12k coins | -38.8% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | +3.8% |
+| Rocío Gálvez | 88 | CB | Liga F | 13k coins | -20% |
+| Allegra Poljak | 87 | RB | Liga F | 13k coins | -5.4% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | 0% |
+| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +23.9% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | +4% |
 
 
 ## 📈 Destaques
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins**
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
+
+- **Rocío Gálvez (88, CB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Allegra Poljak (87, RB)** da Liga F, a apenas **13k coins**
-
-- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
-
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
