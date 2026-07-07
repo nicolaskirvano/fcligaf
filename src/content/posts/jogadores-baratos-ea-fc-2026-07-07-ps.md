@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:07:05.000Z
+pubDatetime: 2026-07-07T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,27 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +21.1% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +53.8% |
-| Caroline Weir | 89 | CAM | Liga F | 12k coins | -32.6% |
-| Luany | 88 | RM | Liga F | 15k coins | -47% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +20% |
+| Luany | 88 | RM | Liga F | 14k coins | -48.2% |
 | Allegra Poljak | 87 | RB | Liga F | 14k coins | -15.6% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +5.7% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -10.5% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +7.8% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +9.8% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | +11.8% |
 
 
 ## 📈 Destaques
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Caroline Weir (89, CAM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Luany (88, RM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luany (88, RM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **14k coins**
+
+- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
