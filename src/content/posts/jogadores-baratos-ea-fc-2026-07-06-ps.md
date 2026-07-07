@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:07:05.000Z
+pubDatetime: 2026-07-07T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 06/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (06/07/2026)?"
-    a: "Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **06/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Patri Guijarro (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,22 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +50% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +69.2% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | -11.7% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -1.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | 0% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +61.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +64.3% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | -9.4% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | +5.6% |
 
 
 ## 📈 Destaques
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Andrea Medina (86, LB)** da Liga F, a apenas **14k coins**
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
 
@@ -63,7 +60,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (06/07/2026)?**  
-Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
