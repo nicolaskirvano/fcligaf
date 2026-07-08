@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T13:07:05.000Z
+pubDatetime: 2026-07-08T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,12 +30,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mapi León | 89 | CB | Liga F | 2k coins | +50% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +26.3% |
-| Allegra Poljak | 87 | RB | Liga F | 14k coins | -14.3% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +8.5% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -21.8% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -1.7% |
-| Eva Dios | 85 | CM | Liga F | 15k coins | +6.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +31.6% |
+| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -26.3% |
+| Andreia Jacinto | 88 | CM | Liga F | 15k coins | +7.2% |
+| Allegra Poljak | 87 | RB | Liga F | 13k coins | -18.2% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | +23.4% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | 0% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +24.6% |
 
 
 ## 📈 Destaques
@@ -44,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rocío Gálvez (88, CB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **14k coins**
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **15k coins**
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
