@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T22:07:05.000Z
+pubDatetime: 2026-07-10T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (09/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 09/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (09/07/2026)?"
-    a: "Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **09/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Claire Lavogez (88) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Claire Lavogez (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -13.3% |
-| Allegra Poljak | 87 | RB | Liga F | 13k coins | -14.3% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | -11.7% |
+| Allegra Poljak | 87 | RB | Liga F | 12k coins | -20.6% |
 | Ane Etxezarreta | 86 | CB | Liga F | 12k coins | +6.4% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +7.7% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -24.1% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | +3.9% |
+| Rocío Gálvez | 85 | CB | Liga F | 13k coins | +16.4% |
 
 
 ## 📈 Destaques
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins**
 
-- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Eva Dios (85, CM)** da Liga F, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +64,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (09/07/2026)?**  
-Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
