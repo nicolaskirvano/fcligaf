@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:07:05.000Z
+pubDatetime: 2026-07-10T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,11 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | -6.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +12.5% |
-| Allegra Poljak | 87 | RB | Liga F | 14k coins | -8.3% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -25.7% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | -8.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -5.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.9% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | -1.8% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | -3.4% |
 
 
 ## 📈 Destaques
@@ -42,11 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins**
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Eva Dios (85, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
