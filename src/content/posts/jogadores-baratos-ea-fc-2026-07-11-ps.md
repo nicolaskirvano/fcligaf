@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:07:05.000Z
+pubDatetime: 2026-07-11T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 8k coins | -64.5% |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -64% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 10k coins | -66.6% |
-| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -34.1% |
-| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -15.6% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -10.6% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +1.7% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -63.2% |
+| Aitana Bonmatí | 91 | CM | Liga F | 9k coins | -63.6% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | 0% |
+| Allegra Poljak | 87 | RB | Liga F | 14k coins | +16% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -12.3% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
 
-- **Andreia Jacinto (88, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
