@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T19:07:05.000Z
+pubDatetime: 2026-07-11T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 7k coins | -63.7% |
-| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -64.5% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 8k coins | -68.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -33.3% |
-| Allegra Poljak | 87 | RB | Liga F | 12k coins | 0% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -14.3% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -12.7% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -67.4% |
+| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -66.7% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -1.6% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 13k coins | -19% |
+| Edna Imade | 86 | ST | Liga F | 14k coins | -3.4% |
 
 
 ## 📈 Destaques
@@ -44,11 +42,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Allegra Poljak (87, RB)** da Liga F, a apenas **12k coins**
+- **Edna Imade (86, ST)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
