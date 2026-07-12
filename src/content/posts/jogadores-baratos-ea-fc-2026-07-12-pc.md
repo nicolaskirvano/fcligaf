@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T19:07:05.000Z
-title: "Jogadores baratos de Liga F no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-12T19:07:09.000Z
+title: "Jogadores baratos de Liga F no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (12/07/2026)?"
-    a: "Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
+    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 7k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aitana Bonmatí (91) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 7k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 6k coins | -70.7% |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -1.8% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | 0% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -17.6% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -60% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -60% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -36% |
+| Allegra Poljak | 87 | RB | Liga F | 15k coins | -25.6% |
 
 
 ## 📈 Destaques
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins**
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allegra Poljak (87, RB)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (12/07/2026)?**  
-Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 6k coins no Console (PS).
+Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 7k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -73,4 +73,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 12/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 12/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
