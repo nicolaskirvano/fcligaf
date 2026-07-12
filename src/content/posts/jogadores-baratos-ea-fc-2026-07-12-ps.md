@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T19:07:05.000Z
+pubDatetime: 2026-07-12T22:07:06.000Z
 title: "Jogadores baratos de Liga F no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 6k coins | -70.7% |
+| Aitana Bonmatí | 91 | CM | Liga F | 6k coins | -72.9% |
 | Estefanía Banini | 89 | CM | Liga F | 14k coins | -1.8% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | 0% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -17.6% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -3.7% |
+| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -12.1% |
+| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -25% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 12k coins | -26.5% |
+| Edna Imade | 86 | ST | Liga F | 13k coins | -8.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | -31.4% |
 
 
 ## 📈 Destaques
@@ -43,7 +47,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rocío Gálvez (88, CB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
