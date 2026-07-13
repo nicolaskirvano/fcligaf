@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:07:05.000Z
+pubDatetime: 2026-07-13T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 7k coins | -67.7% |
-| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -68.5% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -81.9% |
-| Estefanía Banini | 89 | CM | Liga F | 15k coins | -1.7% |
-| Claire Lavogez | 88 | ST | Liga F | 12k coins | -10.2% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -16.2% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +4.8% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -67% |
+| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -67.6% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -83.2% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -7.8% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | -11.7% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -9.4% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -22.1% |
 
 
 ## 📈 Destaques
@@ -48,7 +48,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins**
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
