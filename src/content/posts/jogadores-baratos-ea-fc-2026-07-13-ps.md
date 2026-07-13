@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T10:07:05.000Z
+pubDatetime: 2026-07-13T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,11 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 7k coins | -68.2% |
-| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -68% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -81.2% |
-| Nerea Nevado | 89 | LB | Liga F | 15k coins | -25% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -13.2% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -67.7% |
+| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -68.5% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -81.9% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -1.7% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -10.2% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -16.2% |
+| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +4.8% |
 
 
 ## 📈 Destaques
@@ -44,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nerea Nevado (89, LB)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins**
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
