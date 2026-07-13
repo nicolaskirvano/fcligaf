@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T16:07:09.000Z
+pubDatetime: 2026-07-13T19:07:09.000Z
 title: "Jogadores baratos de Liga F no EA FC (13/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,23 +30,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -61% |
-| Alexia Putellas | 91 | CM | Liga F | 9k coins | -60% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 6k coins | -76.3% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -57.9% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -76.2% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -9.1% |
 | Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | -13.2% |
 
 
 ## 📈 Destaques
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
-
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
