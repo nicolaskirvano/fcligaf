@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T16:07:05.000Z
+pubDatetime: 2026-07-14T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 14/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (14/07/2026)?"
-    a: "Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
+    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **14/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aitana Bonmatí (91) por apenas 8k coins.
+> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -57% |
-| Alexia Putellas | 91 | CM | Liga F | 9k coins | -55.9% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 6k coins | -76.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -26.1% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -19.1% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -14.9% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -5% |
+| Andreia Jacinto | 88 | CM | Liga F | 13k coins | -26.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -3.7% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 13k coins | -20.6% |
+| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +1.6% |
 
 
 ## 📈 Destaques
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **13k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rocío Gálvez (85, CB)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -64,7 +63,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (14/07/2026)?**  
-Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 8k coins no Console (PS).
+Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
