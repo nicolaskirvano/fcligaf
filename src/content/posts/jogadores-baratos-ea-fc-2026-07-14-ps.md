@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T10:07:05.000Z
+pubDatetime: 2026-07-14T13:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 8k coins | -57.5% |
-| Aitana Bonmatí | 91 | CM | Liga F | 9k coins | -58% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -34.8% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -19.1% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -13.4% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -59% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -58% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 8k coins | -72.5% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -30% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -26.1% |
+| Allegra Poljak | 87 | RB | Liga F | 15k coins | +11.1% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
