@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T22:07:05.000Z
+pubDatetime: 2026-07-14T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,16 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 7k coins | -65.1% |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -62.4% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 6k coins | -79.8% |
-| Estefanía Banini | 89 | CM | Liga F | 15k coins | -7.8% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | -6.9% |
-| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -43.2% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -3.7% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 13k coins | -19.1% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | -7.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +1.7% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -66.6% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -64.3% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 6k coins | -80.4% |
+| Estefanía Banini | 89 | CM | Liga F | 14k coins | -21.2% |
+| Claire Lavogez | 88 | ST | Liga F | 13k coins | -10% |
+| Allegra Poljak | 87 | RB | Liga F | 13k coins | -3.4% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 12k coins | -29.4% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -7.7% |
+| Eva Dios | 85 | CM | Liga F | 15k coins | -3.4% |
 
 
 ## 📈 Destaques
@@ -49,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins**
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
