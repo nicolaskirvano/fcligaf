@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T22:07:05.000Z
+pubDatetime: 2026-07-15T01:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | -5% |
-| Andreia Jacinto | 88 | CM | Liga F | 13k coins | -26.9% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -3.7% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 13k coins | -20.6% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | +1.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -9.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -8.7% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -29.4% |
+| Andreia Jacinto | 88 | CM | Liga F | 13k coins | -34.2% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -18.6% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -20.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | 0% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +1.7% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Andreia Jacinto (88, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **13k coins**
-
-- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Rocío Gálvez (85, CB)** da Liga F, a apenas **14k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
