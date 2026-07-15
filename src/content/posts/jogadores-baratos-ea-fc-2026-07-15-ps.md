@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T16:07:05.000Z
+pubDatetime: 2026-07-15T22:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -12% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -7.4% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | -13.5% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +30% |
+| Caroline Weir | 89 | CAM | Liga F | 14k coins | +66.7% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -9.1% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | +5.4% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Weir (89, CAM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
