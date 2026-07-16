@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcligaf.pages.dev/",
     title: "Liga F Market",
     description:
-      "Precos e mercado da Liga F feminina no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado da Liga F feminina no EA FC Ultimate Team, todos os dias.",
     author: "Liga F Market",
-    profile: "https://fcligaf.pages.dev/",
+    profile: "https://fcligaf.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Liga F Market",
