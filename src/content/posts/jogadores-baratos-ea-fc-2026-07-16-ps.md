@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T13:07:05.000Z
+pubDatetime: 2026-07-16T16:07:05.000Z
 title: "Jogadores baratos de Liga F no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +25% |
-| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -12.9% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -18.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +19.2% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +3.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +18.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.3% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | +9.3% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -3.1% |
 
 
 ## 📈 Destaques
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Andreia Jacinto (88, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins**
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Eva Dios (85, CM)** da Liga F, a apenas **14k coins**
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins**
 
 
 ## Por que estas cartas?
