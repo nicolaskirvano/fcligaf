@@ -1,69 +1,79 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:07:09.000Z
-title: "Melhores investimentos em Liga F no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-16T23:59:42.000Z
+title: "Investimentos EA FC: Liga F em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Claudia Pina (88, Liga F) lidera, com +66.7% em 7 dias a 210k coins no Console (PS)."
+    a: "Athenea (86, Liga F) lidera, com +51.4% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Claudia Pina (88) acumula **+66.7% em 7 dias** a 210k coins.
+> 🔝 **Destaque:** Athenea (86) acumula **+51.4% em 7 dias** a 30k coins; leitura atual: **momentum moderado**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+11.3% em 24h** e **+19.2% em 7 dias**.
+- **1 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Claudia Pina | 88 | Liga F | 210k coins | +8.7% | +66.7% | 0% |
-| Allegra Poljak | 86 | Liga F | 41k coins | +4.5% | +32.3% | 0% |
-| Claudia Pina | 88 | Liga F | 122k coins | +6.1% | +24.5% | 49% |
-| Caroline Weir | 86 | Liga F | 43k coins | +3.7% | +23.5% | 38% |
-| Estefanía Banini | 89 | Liga F | 24k coins | +12.2% | +22.7% | 70% |
-| Claire Lavogez | 88 | Liga F | 17k coins | +6.5% | +22.2% | 28% |
-| Patri Guijarro | 90 | Liga F | 69k coins | +19% | +21.1% | 0% |
-| Patri Guijarro | 90 | Liga F | 69k coins | +17.6% | +14.8% | 15% |
-| Pernille Harder | 87 | Liga F | 41k coins | +14.6% | +8.8% | 0% |
-| Andrea Medina | 86 | Liga F | 24k coins | +22.1% | +7.1% | 62% |
-| Georgia Stanway | 88 | Liga F | 44k coins | +13.9% | +7.1% | 0% |
-| Laia Aleixandri | 86 | Liga F | 38k coins | +4.8% | +5.6% | 18% |
+| Athenea | 86 | Liga F | 30k coins | +1.9% | +51.4% | Momentum moderado |
+| Mapi León | 90 | Liga F | 68k coins | +19.8% | +36.3% | Momentum moderado |
+| Allegra Poljak | 87 | Liga F | 17k coins | +7.8% | +27.8% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 68k coins | +16.1% | +21.2% | Momentum moderado |
+| Wifi | 84 | Liga F | 43k coins | +6.9% | +19.6% | Momentum moderado |
+| Sara Däbritz | 86 | Liga F | 45k coins | +9.6% | +18.9% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 64k coins | +13.1% | +13.1% | Momentum moderado |
+| Fiamma Benítez | 86 | Liga F | 18k coins | +5.8% | +9% | Momentum moderado |
+| Pernille Harder | 87 | Liga F | 43k coins | +14.6% | +8.8% | Momentum moderado |
+| Ewa Pajor | 96 | Liga F | 185k coins | +25% | +5.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Claudia Pina (88)** — 210k coins, **+66.7% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Athenea (86)** — 30k coins, **+51.4% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allegra Poljak (86)** — 41k coins, **+32.3% em 7 dias** (+4.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mapi León (90)** — 68k coins, **+36.3% em 7 dias** (+19.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudia Pina (88)** — 122k coins, **+24.5% em 7 dias** (+6.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **49% de chance de seguir subindo**.
+- **Allegra Poljak (87)** — 17k coins, **+27.8% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 43k coins, **+23.5% em 7 dias** (+3.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 68k coins, **+21.2% em 7 dias** (+16.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 24k coins, **+22.7% em 7 dias** (+12.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Wifi (84)** — 43k coins, **+19.6% em 7 dias** (+6.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 🧪 De onde vêm estes números
@@ -73,7 +83,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Claudia Pina (88, Liga F) lidera, com +66.7% em 7 dias a 210k coins no Console (PS).
+Athenea (86, Liga F) lidera, com +51.4% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -87,3 +97,10 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Mercado EA FC em 16/07: Liga F — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
