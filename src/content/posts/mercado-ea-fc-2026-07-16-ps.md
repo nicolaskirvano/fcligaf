@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:12:09.000Z
+pubDatetime: 2026-07-17T01:07:07.000Z
 title: "Mercado EA FC em 16/07: Liga F — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Irene Paredes (88, Liga F), com +34.2% em 24h, a 34k coins no Console (PS)."
+    a: "Dolores Silva (84, Liga F), com +33.8% em 24h, a 46k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Patri Guijarro (91), -38.7% em 24h, a 66k coins."
+    a: "Patri Guijarro (91), -45.5% em 24h, a 66k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 23 cartas em alta contra 31 em queda (média 0.46%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 32 em queda (média -0.28%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **16/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **23 em alta** e **31 em queda**, média de **0.46%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **16/07/2026** (Console (PS)): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **20 em alta** e **32 em queda**, média de **-0.28%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Irene Paredes (88) **+34.2%** · 🔴 **Maior baixa:** Patri Guijarro (91) **-38.7%**
+> 🟢 **Maior alta:** Dolores Silva (84) **+33.8%** · 🔴 **Maior baixa:** Patri Guijarro (91) **-45.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Liga F — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
 
@@ -35,65 +35,65 @@ Panorama de **16/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 72.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.6% entre as cartas que se moveram; o universo observado reúne 62 cartas.
+- **Amplitude do dia:** 79.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.5% entre as cartas que se moveram; o universo observado reúne 59 cartas.
 - **Concentração:** Liga F aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Irene Paredes | 88 | Liga F | 34k coins | +34.2% | +1.9% |
 | Dolores Silva | 84 | Liga F | 46k coins | +33.8% | -7% |
-| Linda Caicedo | 87 | Liga F | 32k coins | +21.4% | -33.6% |
+| Caroline Graham Hansen | 95 | Liga F | 372k coins | +24.3% | +7.8% |
 | Mapi León | 90 | Liga F | 68k coins | +18.1% | +34.3% |
-| Patri Guijarro | 90 | Liga F | 68k coins | +15.3% | +19.3% |
-| Georgia Stanway | 88 | Liga F | 44k coins | +15% | 0% |
-| Ewa Pajor | 96 | Liga F | 185k coins | +14.7% | -1.6% |
-| Pernille Harder | 87 | Liga F | 43k coins | +14.6% | +7.5% |
-| Salma Paralluelo | 93 | Liga F | 1.60M coins | +14.4% | +67.5% |
-| Caroline Graham Hansen | 95 | Liga F | 347k coins | +13.3% | -2.9% |
+| Georgia Stanway | 88 | Liga F | 44k coins | +16.4% | +0.6% |
+| Pernille Harder | 87 | Liga F | 43k coins | +14.6% | +6.1% |
+| Salma Paralluelo | 93 | Liga F | 1.60M coins | +14.4% | +66.7% |
+| Ewa Pajor | 96 | Liga F | 190k coins | +13.5% | -2.6% |
+| Claudia Pina | 87 | Liga F | 240k coins | +12.7% | +29% |
+| Fiamma Benítez | 84 | Liga F | 48k coins | +12.4% | +19.5% |
+| Wifi | 84 | Liga F | 43k coins | +6.9% | +19.6% |
 
 
 ### Análise das altas
 
-- **Irene Paredes (88)** subiu **+34.2%** em 24h, a **34k coins** (faixa do dia: 30k–43k). Está -10% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
-
 - **Dolores Silva (84)** subiu **+33.8%** em 24h, a **46k coins** (faixa do dia: 34k–50k). Está +15% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Linda Caicedo (87)** subiu **+21.4%** em 24h, a **32k coins** (faixa do dia: 28k–50k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Caroline Graham Hansen (95)** subiu **+24.3%** em 24h, a **372k coins** (faixa do dia: 300k–373k). Está +15% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+
+- **Mapi León (90)** subiu **+18.1%** em 24h, a **68k coins** (faixa do dia: 50k–74k). Está +37% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 91 | Liga F | 66k coins | -38.7% | +28.2% |
-| Aitana Bonmatí | 91 | Liga F | 22k coins | -24.5% | +69.4% |
-| Mari José | 86 | Liga F | 22k coins | -23.9% | -27% |
-| Caroline Graham Hansen | 90 | Liga F | 25k coins | -23.1% | +81.8% |
-| Sydney Schertenleib | 86 | Liga F | 48k coins | -19.1% | -8.5% |
-| Esperanza Pizarro | 84 | Liga F | 36k coins | -16.5% | -18.8% |
-| Athenea | 86 | Liga F | 36k coins | -12.3% | -2.1% |
-| Elba Vergés | 84 | Liga F | 35k coins | -10.6% | -16.4% |
-| Caroline Weir | 87 | Liga F | 31k coins | -9.3% | -3.1% |
-| Ane Azkona | 86 | Liga F | 44k coins | -8.9% | +7.9% |
+| Patri Guijarro | 91 | Liga F | 66k coins | -45.5% | +20.9% |
+| Mari José | 86 | Liga F | 21k coins | -26.5% | -30.1% |
+| Aitana Bonmatí | 91 | Liga F | 22k coins | -20% | +87.2% |
+| Elba Vergés | 84 | Liga F | 35k coins | -18% | -17.5% |
+| Esperanza Pizarro | 84 | Liga F | 36k coins | -17.6% | -19.4% |
+| Lauri | 83 | Liga F | 22k coins | -16.7% | -24.2% |
+| Emilie Nautnes | 84 | Liga F | 38k coins | -13.1% | +8.6% |
+| Sofie Junge Pedersen | 86 | Liga F | 23k coins | -11.4% | +40.9% |
+| Caroline Weir | 87 | Liga F | 30k coins | -10.7% | -4.6% |
+| Athenea | 86 | Liga F | 35k coins | -10.7% | -2.7% |
 
 
 ### Análise das baixas
 
-- **Patri Guijarro (91)** caiu **-38.7%** em 24h, a **66k coins** (faixa do dia: 63k–122k). Está +9% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Patri Guijarro (91)** caiu **-45.5%** em 24h, a **66k coins** (faixa do dia: 64k–122k). Está +8% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Aitana Bonmatí (91)** caiu **-24.5%** em 24h, a **22k coins** (faixa do dia: 20k–28k). Está +76% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Mari José (86)** caiu **-26.5%** em 24h, a **21k coins** (faixa do dia: 20k–34k). Está -33% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Mari José (86)** caiu **-23.9%** em 24h, a **22k coins** (faixa do dia: 20k–34k). Está -30% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Aitana Bonmatí (91)** caiu **-20%** em 24h, a **22k coins** (faixa do dia: 20k–28k). Está +75% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Irene Paredes já avançou 34.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dolores Silva já avançou 33.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Patri Guijarro recuou -38.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Patri Guijarro recuou -45.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Irene Paredes (88, Liga F), com +34.2% em 24h, a 34k coins no Console (PS).
+Dolores Silva (84, Liga F), com +33.8% em 24h, a 46k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Patri Guijarro (91), -38.7% em 24h, a 66k coins.
+Patri Guijarro (91), -45.5% em 24h, a 66k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 23 cartas em alta contra 31 em queda (média 0.46%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 32 em queda (média -0.28%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
