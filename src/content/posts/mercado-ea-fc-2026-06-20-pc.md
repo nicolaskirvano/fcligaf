@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga F Market"
 pubDatetime: 2026-06-21T01:08:56.000Z
-title: "Liga F no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Liga F no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Amaiur Sarriegi (88, Liga F), com +40% em 24h, a 35k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Fiamma Benítez (86), -22.5% em 24h, a 23k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 24 cartas em alta contra 27 em queda (média 0.17%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Amaiur Sarriegi liderou as altas e Fiamma Benítez as baixas em Liga F. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Amaiur Sarriegi** registrou o maior movimento de 24h (+40,0%), enquanto **Fiamma Benítez** marcou o menor (-22,5%). A distância entre os extremos foi de **62,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga F no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Amaiur Sarriegi (88, Liga F), com +40% em 24h, a 35k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Fiamma Benítez (86), -22.5% em 24h, a 23k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 24 cartas em alta contra 27 em queda (média 0.17%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**
+Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 24 cartas em alta contra 27 em queda (média 0.17%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -94,3 +99,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga F baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Liga F no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga F Market"
 pubDatetime: 2026-06-20T01:07:48.000Z
-title: "Liga F no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Liga F no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Amaiur Sarriegi (88, Liga F), com +26.2% em 24h, a 52k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Claudia Pina (92), -36.7% em 24h, a 344k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Alexia Putellas (92) — 95% de probabilidade de alta, a 141k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 31 em queda (média -6.62%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Amaiur Sarriegi liderou as altas e Claudia Pina as baixas em Liga F. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 16 cartas destacadas nas tabelas, **Amaiur Sarriegi** registrou o maior movimento de 24h (+26,2%), enquanto **Claudia Pina** marcou o menor (-36,7%). A distância entre os extremos foi de **62,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-13,8%**: 6 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga F no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Liga F em console PS para o dia 19 de junho de 2026 apresenta um cenário de extrema volatilidade e predomínio de vendas, caracterizando um ambiente de alta liquidez mas com sentimento negativo geral. Os dados indicam uma clara predominância de quedas, com 31 jogadores registrando perda de valor contra apenas 9 que subiram, resultando em uma média negativa de -6.62% nas últimas 24 horas. Esse contexto sugere que a maioria dos traders está realizando lucros ou cortando perdas, o que cria oportunidades de compra para quem possui disciplina e capital de giro, especialmente em ativos que foram vendidos de forma excessiva por pânico. A análise fundamentalista do dia aponta que, apesar da queda geral, há uma segmentação clara entre cartas de alto investimento, que sofrem correção brutal, e cartas de médio e baixo investimento, que mantêm certa estabilidade ou mesmo reagem positivamente devido à demanda de times de formação e SBCs. É fundamental observar que a probabilidade de alta para a maioria dos ativos está concentrada em faixas específicas, indicando que o mercado não está caindo uniformemente, mas sim reagindo a notícias específicas ou mudanças na meta de times competitivos.
 
@@ -64,7 +67,7 @@ Entre os ativos que deflagraram alta, destaca-se Amaiur Sarriegi (88, Liga F), q
 Do lado das perdas, a situação é crítica para os ativos de alto investimento, liderados por Aitana Bonmatí (91, Liga F), que despencou 36.7% em 24 horas, cotada a 750k coins, com probabilidade de alta de 46%, indicando um forte desinvestimento por parte de grandes traders que temem uma queda ainda maior. Claudia Pina (92, Liga F) acompanhou essa tendência de pânico, caindo 36.7% para 344k coins, com probabilidade de alta de 50%, o que sugere que o mercado está dividido sobre seu valor futuro, mas a pressão vendedora atual é insuperável. Cristina Cubedo (84, Liga F) registrou uma queda significativa de 30.6% para 40k coins, com probabilidade de alta de 43%, mostrando que mesmo cartas de entrada estão sendo liquidadas em massa. Estefanía Banini (89, Liga F) caiu 28.9% para 20k coins, com probabilidade de alta de 27%, o que indica que a maioria dos analistas do modelo espera continuação da queda ou estagnação. Aitana Bonmatí (97, Liga F), a carta mais cara, sofreu uma queda de 26.9% para 1.35M de coins, com probabilidade de alta de 32%, refletindo a alta volatilidade e o risco extremo associado a ativos de luxo em um mercado em baixa. Salma Paralluelo (86, Liga F) caiu 24% para 362k coins, com probabilidade de alta de 53%, enquanto Caroline Graham Hansen (92, Liga F) recuou 14.2% para 151k coins, com probabilidade de alta de 38%, e Esperanza Pizarro (84, Liga F) caiu 16.9% para 37k coins, com probabilidade de alta de 58%, indicando que algumas cartas de médio investimento podem estar se estabilizando apesar da queda.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -109,19 +112,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Amaiur Sarriegi (88, Liga F), com +26.2% em 24h, a 52k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Claudia Pina (92), -36.7% em 24h, a 344k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Alexia Putellas (92) — 95% de probabilidade de alta, a 141k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Alexia Putellas (92) — 95% de probabilidade de alta, a 141k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 31 em queda (média -6.62%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 9 cartas em alta contra 31 em queda (média -6.62%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -130,3 +133,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga F baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Liga F no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

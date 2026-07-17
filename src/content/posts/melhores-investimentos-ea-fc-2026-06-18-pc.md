@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga F Market"
 pubDatetime: 2026-06-19T01:09:16.000Z
-title: "Melhores investimentos em Liga F no EA FC (18/06/2026): análise e previsões — PC"
+title: "Momentum de Liga F no EA FC em 18/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Nerea Nevado (89, Liga F) lidera, com +78.7% em 7 dias a 33k coins no PC, e o modelo dá 38% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 18/06/2026 no PC: Nerea Nevado liderou 7d com +78,7%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Nerea Nevado** liderou o recorte com **+78,7% em 7d** e +17,5% em 24h. Entre 5 cartas, 5 tinham as duas janelas positivas; a mediana semanal foi **+24,7%**.
+
+Os preços destacados iam de **25k coins** a **84k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Liga F no EA FC em 18/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **18/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Nerea Nevado (89) acumula **+78.7% em 7 dias** a 33k coins.
 
@@ -41,9 +48,9 @@ Por fim, a Patri Guijarro, com 91 de classificação, é a joia da coroa para es
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nerea Nevado | 89 | Liga F | 33k coins | +17.5% | +78.7% | 38% |
 | Sofie Junge Pedersen | 86 | Liga F | 25k coins | +35.1% | +50.7% | 46% |
@@ -54,23 +61,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Nerea Nevado (89)** — 33k coins, **+78.7% em 7 dias** (+17.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nerea Nevado (89)** — 33k coins, **+78.7% em 7 dias** (+17.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Sofie Junge Pedersen (86)** — 25k coins, **+50.7% em 7 dias** (+35.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sofie Junge Pedersen (86)** — 25k coins, **+50.7% em 7 dias** (+35.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Andreia Jacinto (88)** — 29k coins, **+24.7% em 7 dias** (+2.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 29k coins, **+24.7% em 7 dias** (+2.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Alexia Putellas (92)** — 52k coins, **+20.7% em 7 dias** (+13.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alexia Putellas (92)** — 52k coins, **+20.7% em 7 dias** (+13.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Patri Guijarro (91)** — 84k coins, **+16.7% em 7 dias** (+26.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🔍 Como apuramos os preços
@@ -79,13 +86,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Nerea Nevado (89, Liga F) lidera, com +78.7% em 7 dias a 33k coins no PC, e o modelo dá 38% de chance de seguir subindo.
+**Qual carta liderava o momentum em 18/06/2026 no EA FC?**
+Nerea Nevado (89, Liga F) lidera, com +78.7% em 7 dias a 33k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -94,3 +101,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga F no EA FC em 18/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-18-pc/)
+- [Momentum de Liga F no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga F Market"
 pubDatetime: 2026-06-20T01:08:55.000Z
-title: "Liga F no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Liga F no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Emilie Nautnes (84, Liga F), com +44.9% em 24h, a 48k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Wifi (84), -37.2% em 24h, a 38k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 25 em queda (média -0.66%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Emilie Nautnes liderou as altas e Wifi as baixas em Liga F. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 19 cartas destacadas nas tabelas, **Emilie Nautnes** registrou o maior movimento de 24h (+44,9%), enquanto **Wifi** marcou o menor (-37,2%). A distância entre os extremos foi de **82,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-11,9%**: 9 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga F no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário da Liga F em PC para hoje, 19 de junho de 2026, exibe um comportamento lateral consolidado, onde a ausência de um direcionamento claro define a agenda dos traders mais experientes que buscam oportunidades de arbitragem em vez de tendências de alta sustentada. Com 19 registros de altas contra 25 quedas no período de 24 horas, a média geral do mercado registra uma leve deflação de -0.66%, indicando que a liquidez está sendo consumida por vendas estratégicas em cards de alto patamar enquanto o volume de compra se fragmenta entre opções de entrada e meio de tabela. Este ambiente de incerteza exige cautela extrema, pois a probabilidade de alta oscila significativamente entre os ativos, tornando o timing da execução mais crítico do que a seleção do próprio jogador para a formação. A volatilidade reduzida sugere que os grandes investidores estão em modo de espera ou realização de lucros parciais, criando um vácuo de preço que pode ser explorado por quem souber identificar os pontos de suporte técnico nos cards que apresentaram quedas acentuadas sem fundamental negativo. O tom do dia é de precaução ativa, onde cada transação deve ser justificada por dados concretos de probabilidade e não por especulação sobre eventos futuros não confirmados pela EA Sports.
 
@@ -75,16 +80,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Emilie Nautnes (84, Liga F), com +44.9% em 24h, a 48k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Wifi (84), -37.2% em 24h, a 38k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 25 em queda (média -0.66%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 19 cartas em alta contra 25 em queda (média -0.66%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -93,3 +98,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga F baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Momentum de Liga F no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
