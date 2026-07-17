@@ -106,8 +106,8 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 A estratégia recomendada para o dia 19 de junho de 2026 é evitar agressivamente ativos de alto investimento como Aitana Bonmatí (91) e Claudia Pina (92), que apresentam quedas severas e baixa probabilidade de recuperação imediata, optando-se por vender posições existentes nesses ativos para preservar capital. Recomenda-se comprar ativamente Alexia Putellas (92) e Luany (88), devido às suas altas probabilidades de alta (95%) e aos preços atuais de 141k e 24k coins, respectivamente, que oferecem uma relação risco-retorno favorável. Ativos como Amaiur Sarriegi (88) e Athenea (86) devem ser acumulados em pequenos lotes, aproveitando a probabilidade de alta de 93% e 95% para revenda em curto prazo. É aconselhável segurar posições em cartas com probabilidade de alta acima de 50% que não estão em queda livre, como Esperanza Pizarro (84), aguardando uma possível estabilização do mercado. A liquidez do mercado está alta devido às vendas em massa, o que facilita a entrada e saída de posições, mas exige monitoramento constante dos preços de Alexia Putellas e Luany para garantir que a tendência de alta prevista pelo modelo se materialize sem correções intermediárias significativas.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes

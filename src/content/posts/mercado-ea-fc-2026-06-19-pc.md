@@ -74,8 +74,8 @@ As quedas são o foco principal de atenção hoje, com Wifi (84, Liga F) despenc
 A estratégia para hoje deve focar na acumulação seletiva de ativos que apresentaram quedas significativas mas mantêm alta probabilidade de recuperação, com destaque para Caroline Weir (89, Liga F) a 24k coins e Amaiur Sarriegi (88, Liga F) a 34k coins, que combinam preços baixos com probabilidades de alta superiores a 50%. É crucial evitar compras em cards de elite como Claudia Pina (95, Liga F) e Salma Paralluelo (93, Liga F) até que haja uma estabilização clara nos preços, pois as quedas de 20% e 24% respectivamente indicam que o fundo ainda não foi encontrado e o risco de perda é elevado. Traders devem considerar segurar Mapi León (90, Liga F) e Pernille Harder (87, Liga F) caso já os possuam, pois suas probabilidades de alta em torno de 47-50% e preços estáveis em 40k e 30k oferecem um equilíbrio seguro em um mercado lateral. Para quem busca alavancagem rápida, Emilie Nautnes (84, Liga F) a 48k coins pode ser uma aposta de curto prazo, mas deve ser monitorada de perto devido à probabilidade de alta de apenas 36%, o que sugere que o movimento de 44.9% pode ser insustentável. O timing ideal para compra é nas próximas horas, após a dissipação do pânico inicial das vendas, buscando entrar em Caroline Weir e Wifi (84, Liga F) se o preço de Wifi não continuar caindo, mantendo sempre uma reserva de liquidez para aproveitar qualquer novo dip no mercado de elite.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
