@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:59:42.000Z
+pubDatetime: 2026-07-17T00:12:11.000Z
 title: "Investimentos EA FC: Liga F em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.3% em 24h** e **+19.2% em 7 dias**.
-- **1 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.5% em 24h** e **+19.3% em 7 dias**.
+- **0 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,28 +44,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Athenea | 86 | Liga F | 30k coins | +1.9% | +51.4% | Momentum moderado |
-| Mapi León | 90 | Liga F | 68k coins | +19.8% | +36.3% | Momentum moderado |
-| Allegra Poljak | 87 | Liga F | 17k coins | +7.8% | +27.8% | Momentum moderado |
-| Patri Guijarro | 90 | Liga F | 68k coins | +16.1% | +21.2% | Momentum moderado |
+| Mapi León | 90 | Liga F | 68k coins | +18.1% | +34.3% | Momentum moderado |
+| Allegra Poljak | 87 | Liga F | 17.250 coins | +11.3% | +27.8% | Momentum moderado |
 | Wifi | 84 | Liga F | 43k coins | +6.9% | +19.6% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 68k coins | +15.3% | +19.3% | Momentum moderado |
 | Sara Däbritz | 86 | Liga F | 45k coins | +9.6% | +18.9% | Momentum moderado |
-| Patri Guijarro | 90 | Liga F | 64k coins | +13.1% | +13.1% | Momentum moderado |
-| Fiamma Benítez | 86 | Liga F | 18k coins | +5.8% | +9% | Momentum moderado |
-| Pernille Harder | 87 | Liga F | 43k coins | +14.6% | +8.8% | Momentum moderado |
-| Ewa Pajor | 96 | Liga F | 185k coins | +25% | +5.3% | Esticada |
+| Patri Guijarro | 90 | Liga F | 64k coins | +10.5% | +12.3% | Momentum moderado |
+| Fiamma Benítez | 86 | Liga F | 17.000 coins | +5.8% | +9% | Momentum moderado |
+| Pernille Harder | 87 | Liga F | 43k coins | +14.6% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Athenea (86)** — 30k coins, **+51.4% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (90)** — 68k coins, **+36.3% em 7 dias** (+19.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 68k coins, **+34.3% em 7 dias** (+18.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allegra Poljak (87)** — 17k coins, **+27.8% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Patri Guijarro (90)** — 68k coins, **+21.2% em 7 dias** (+16.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Allegra Poljak (87)** — 17.250 coins, **+27.8% em 7 dias** (+11.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Wifi (84)** — 43k coins, **+19.6% em 7 dias** (+6.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Patri Guijarro (90)** — 68k coins, **+19.3% em 7 dias** (+15.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
