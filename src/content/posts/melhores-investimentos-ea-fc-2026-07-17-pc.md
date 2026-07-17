@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:07:18.000Z
+pubDatetime: 2026-07-17T16:07:18.000Z
 title: "Investimentos EA FC: Liga F em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Patri Guijarro (91, Liga F) lidera, com +40.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (90, Liga F) lidera, com +54.1% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patri Guijarro (91) acumula **+40.7% em 7 dias** a 64k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+54.1% em 7 dias** a 66k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+3.0% em 24h** e **+25.8% em 7 dias**.
-- **0 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.8% em 24h** e **+29.2% em 7 dias**.
+- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga F** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 91 | Liga F | 64k coins | +10.3% | +40.7% | Momentum moderado |
-| Caroline Weir | 89 | Liga F | 30k coins | +5.8% | +39.1% | Momentum moderado |
-| Alexia Putellas | 92 | Liga F | 65k coins | +3.9% | +37.4% | Momentum moderado |
-| Athenea | 86 | Liga F | 51k coins | +2% | +25.9% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 66k coins | +26% | +54.1% | Esticada |
+| Alexia Putellas | 92 | Liga F | 67k coins | +11.7% | +37.4% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 62k coins | +7.8% | +37.4% | Momentum moderado |
+| Irene Paredes | 88 | Liga F | 50k coins | +25.6% | +32.9% | Esticada |
 | Fiamma Benítez | 84 | Liga F | 40k coins | +1.2% | +25.6% | Momentum moderado |
-| Irene Paredes | 88 | Liga F | 44k coins | +12.8% | +18.6% | Momentum moderado |
-| Pernille Harder | 87 | Liga F | 45k coins | +1.1% | +13.9% | Entrada a observar |
-| Elba Vergés | 84 | Liga F | 44k coins | +1.7% | +13.5% | Entrada a observar |
+| Estefanía Banini | 89 | Liga F | 24k coins | +13.3% | +23.7% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 44k coins | +4.7% | +17% | Entrada a observar |
+| Pernille Harder | 87 | Liga F | 44k coins | +1.1% | +13.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (91)** — 64k coins, **+40.7% em 7 dias** (+10.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 66k coins, **+54.1% em 7 dias** (+26% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (89)** — 30k coins, **+39.1% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (92)** — 67k coins, **+37.4% em 7 dias** (+11.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (92)** — 65k coins, **+37.4% em 7 dias** (+3.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 62k coins, **+37.4% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 51k coins, **+25.9% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Irene Paredes (88)** — 50k coins, **+32.9% em 7 dias** (+25.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Fiamma Benítez (84)** — 40k coins, **+25.6% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -90,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Patri Guijarro (91, Liga F) lidera, com +40.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (90, Liga F) lidera, com +54.1% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
