@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luany</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Estefanía Banini</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edna Imade</text>
-<rect x="285" y="153" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Medina</text>
-<rect x="285" y="211" width="283" height="28" rx="7" fill="#22c55e"/>
-<text x="578" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Medina</text>
+<rect x="285" y="153" width="358" height="28" rx="7" fill="#22c55e"/>
+<text x="653" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esperanza Pizarro</text>
+<rect x="285" y="211" width="171" height="28" rx="7" fill="#22c55e"/>
+<text x="466" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.8%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amaiur Sarriegi</text>
-<rect x="285" y="269" width="175" height="28" rx="7" fill="#22c55e"/>
-<text x="470" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Claudia Pina</text>
-<rect x="285" y="327" width="140" height="28" rx="7" fill="#22c55e"/>
-<text x="435" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
+<rect x="285" y="269" width="156" height="28" rx="7" fill="#22c55e"/>
+<text x="451" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ewa Pajor</text>
+<rect x="285" y="327" width="150" height="28" rx="7" fill="#22c55e"/>
+<text x="445" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Schertenleib</text>
 <rect x="285" y="385" width="130" height="28" rx="7" fill="#22c55e"/>
-<text x="425" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
+<text x="425" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.8%</text>
 </svg>
