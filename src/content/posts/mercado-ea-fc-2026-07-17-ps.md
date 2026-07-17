@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:07:08.000Z
+pubDatetime: 2026-07-17T22:07:08.000Z
 title: "Mercado EA FC em 17/07: Liga F — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Sydney Schertenleib (86, Liga F), com +19% em 24h, a 44k coins no Console (PS)."
+    a: "Alexia Putellas (92, Liga F), com +50.8% em 24h, a 100k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Sara Däbritz (86), -28.2% em 24h, a 40k coins."
+    a: "Linda Caicedo (87), -31.5% em 24h, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 14 cartas em alta contra 29 em queda (média -1.6%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 29 em queda (média -4.34%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **17/07/2026** no Console (PS) com clima **vendedor** — a maioria das cartas recuou: **14 cartas subiram** e **29 caíram** (80+ acima de 5k coins), variação média de **-1.6%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **17/07/2026** no Console (PS) com clima **vendedor** — a maioria das cartas recuou: **16 cartas subiram** e **29 caíram** (80+ acima de 5k coins), variação média de **-4.34%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Sydney Schertenleib (86) **+19%** · 🔴 **Maior baixa:** Sara Däbritz (86) **-28.2%**
+> 🟢 **Maior alta:** Alexia Putellas (92) **+50.8%** · 🔴 **Maior baixa:** Linda Caicedo (87) **-31.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Liga F — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,23 +35,23 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com clima **vendedor*
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 47.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 32.6% entre as cartas que se moveram; o universo observado reúne 53 cartas.
+- **Amplitude do dia:** 82.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.6% entre as cartas que se moveram; o universo observado reúne 55 cartas.
 - **Concentração:** Liga F aparece em 19 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sydney Schertenleib | 86 | Liga F | 44k coins | +19% | +6.7% |
-| Amaiur Sarriegi | 88 | Liga F | 52k coins | +12.6% | -8.5% |
-| Elba Vergés | 84 | Liga F | 45k coins | +9.6% | -1.8% |
-| Ewa Pajor | 96 | Liga F | 195k coins | +7.9% | +6.2% |
-| Ewa Pajor | 89 | Liga F | 219k coins | +7.9% | +95.5% |
-| Mapi León | 90 | Liga F | 70k coins | +6.9% | +43.6% |
-| Linda Caicedo | 87 | Liga F | 41k coins | +5.1% | -31.7% |
-| Dolores Silva | 84 | Liga F | 50k coins | +4.8% | -2.5% |
-| Caroline Graham Hansen | 92 | Liga F | 360k coins | +4.3% | +43.4% |
+| Alexia Putellas | 92 | Liga F | 100k coins | +50.8% | +81% |
+| Ane Azkona | 88 | Liga F | 26k coins | +47.3% | +34% |
+| Athenea | 86 | Liga F | 35k coins | +16.1% | +18.6% |
+| Mapi León | 90 | Liga F | 75k coins | +9.5% | +53.8% |
+| Salma Paralluelo | 86 | Liga F | 650k coins | +8.3% | +19.3% |
+| Aitana Bonmatí | 91 | Liga F | 1.06M coins | +6.2% | +18.1% |
+| Ewa Pajor | 89 | Liga F | 210k coins | +5.5% | +87.5% |
+| Ona Batlle | 90 | Liga F | 45k coins | +4.4% | +75.9% |
+| Amaiur Sarriegi | 88 | Liga F | 48k coins | +4.3% | -16.2% |
 
 
 ### Análise das altas
@@ -60,43 +60,43 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com clima **vendedor*
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Sydney Schertenleib (86)** subiu **+19%** em 24h, a **44k coins** (faixa do dia: 36k–60k). Está em linha com a média de 7 dias (+1%).
+- **Alexia Putellas (92)** subiu **+50.8%** em 24h, a **100k coins** (faixa do dia: 58k–132k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Amaiur Sarriegi (88)** subiu **+12.6%** em 24h, a **52k coins** (faixa do dia: 38k–68k). Está em linha com a média de 7 dias (-4%).
+- **Ane Azkona (88)** subiu **+47.3%** em 24h, a **26k coins** (faixa do dia: 18.500–54k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Elba Vergés (84)** subiu **+9.6%** em 24h, a **45k coins** (faixa do dia: 31k–49k). Está +13% acima da média de 7 dias (aquecida).
+- **Athenea (86)** subiu **+16.1%** em 24h, a **35k coins** (faixa do dia: 32k–43k). Está em linha com a média de 7 dias (-7%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sara Däbritz | 86 | Liga F | 40k coins | -28.2% | -7.3% |
-| Cristina Cubedo | 84 | Liga F | 32k coins | -22.6% | -18.8% |
-| Rocío Gálvez | 88 | Liga F | 22k coins | -20.4% | -4.4% |
-| Athenea | 86 | Liga F | 40k coins | -20% | +53.8% |
-| Caroline Weir | 86 | Liga F | 35k coins | -16.7% | -6.7% |
-| Claudia Pina | 88 | Liga F | 101k coins | -16.4% | +11.5% |
-| Athenea | 86 | Liga F | 38k coins | -14.3% | -9% |
-| Wifi | 84 | Liga F | 34k coins | -10.3% | -2.8% |
-| Salma Paralluelo | 93 | Liga F | 1.50M coins | -9.4% | +44.9% |
-| Caroline Graham Hansen | 95 | Liga F | 317k coins | -9.1% | +13.6% |
+| Linda Caicedo | 87 | Liga F | 35k coins | -31.5% | -41.9% |
+| Claudia Pina | 87 | Liga F | 163k coins | -28.8% | +10.7% |
+| Claudia Pina | 95 | Liga F | 330k coins | -21.1% | -8.3% |
+| Claudia Pina | 88 | Liga F | 170k coins | -20.9% | -6.1% |
+| Sara Däbritz | 86 | Liga F | 41k coins | -16.4% | +14% |
+| Allegra Poljak | 86 | Liga F | 35k coins | -14.6% | -1.4% |
+| Georgia Stanway | 88 | Liga F | 36k coins | -11.7% | -4.2% |
+| Andrea Medina | 86 | Liga F | 22k coins | -11.2% | -13% |
+| Emilie Nautnes | 84 | Liga F | 38k coins | -10.3% | -0.7% |
+| Athenea | 86 | Liga F | 35k coins | -10.1% | +37.5% |
 
 
 ### Análise das baixas
 
-- **Sara Däbritz (86)** caiu **-28.2%** em 24h, a **40k coins** (faixa do dia: 34k–52k). Está em linha com a média de 7 dias (-5%).
+- **Linda Caicedo (87)** caiu **-31.5%** em 24h, a **35k coins** (faixa do dia: 34k–62k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Cristina Cubedo (84)** caiu **-22.6%** em 24h, a **32k coins** (faixa do dia: 32k–42k). Está -17% abaixo da média de 7 dias (descontada).
+- **Claudia Pina (87)** caiu **-28.8%** em 24h, a **163k coins** (faixa do dia: 161k–259k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Rocío Gálvez (88)** caiu **-20.4%** em 24h, a **22k coins** (faixa do dia: 16.750–27k). Está em linha com a média de 7 dias (+0%).
+- **Claudia Pina (95)** caiu **-21.1%** em 24h, a **330k coins** (faixa do dia: 320k–419k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Sydney Schertenleib já avançou 19% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alexia Putellas já avançou 50.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sara Däbritz recuou -28.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Linda Caicedo recuou -31.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,6 +107,7 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com clima **vendedor*
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Liga F em 17/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-17-ps/)
+- [Investimentos EA FC: Liga F em 17/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-17-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -117,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Sydney Schertenleib (86, Liga F), com +19% em 24h, a 44k coins no Console (PS).
+Alexia Putellas (92, Liga F), com +50.8% em 24h, a 100k coins no Console (PS).
 
 **E a maior queda do dia?**
-Sara Däbritz (86), -28.2% em 24h, a 40k coins.
+Linda Caicedo (87), -31.5% em 24h, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 14 cartas em alta contra 29 em queda (média -1.6%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 29 em queda (média -4.34%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
