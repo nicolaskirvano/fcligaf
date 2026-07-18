@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:07:18.000Z
+pubDatetime: 2026-07-18T01:07:19.000Z
 title: "Investimentos EA FC: Liga F em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.1% em 24h** e **+29.8% em 7 dias**.
-- **7 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.8% em 24h** e **+30.0% em 7 dias**.
+- **5 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ona Batlle | 90 | Liga F | 50k coins | +14.3% | +85.2% | Esticada |
-| Georgia Stanway | 88 | Liga F | 65k coins | +22.4% | +40% | Esticada |
-| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +36% | Esticada |
-| Patri Guijarro | 91 | Liga F | 63k coins | +26.2% | +30% | Esticada |
-| Caroline Weir | 89 | Liga F | 23k coins | +7.1% | +29.6% | Momentum moderado |
-| Luany | 88 | Liga F | 36k coins | +25.9% | +27% | Esticada |
-| Patri Guijarro | 90 | Liga F | 52k coins | +32.2% | +21% | Esticada |
-| Athenea | 86 | Liga F | 54k coins | +20% | +5.3% | Esticada |
+| Ona Batlle | 90 | Liga F | 50k coins | +25.8% | +85.2% | Esticada |
+| Caroline Weir | 86 | Liga F | 50k coins | +31.1% | +46.7% | Esticada |
+| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +34.9% | Esticada |
+| Patri Guijarro | 91 | Liga F | 65k coins | +27.5% | +30% | Esticada |
+| Alexia Putellas | 92 | Liga F | 50k coins | +18.4% | +17.1% | Momentum moderado |
+| Athenea | 86 | Liga F | 60k coins | +20% | +5.3% | Esticada |
+| Patri Guijarro | 90 | Liga F | 60k coins | +15.4% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ona Batlle (90)** — 50k coins, **+85.2% em 7 dias** (+14.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
+- **Ona Batlle (90)** — 50k coins, **+85.2% em 7 dias** (+25.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (88)** — 65k coins, **+40% em 7 dias** (+22.4% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (86)** — 50k coins, **+46.7% em 7 dias** (+31.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 85k coins, **+36% em 7 dias** (+34.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 85k coins, **+34.9% em 7 dias** (+34.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (91)** — 63k coins, **+30% em 7 dias** (+26.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 65k coins, **+30% em 7 dias** (+27.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (89)** — 23k coins, **+29.6% em 7 dias** (+7.1% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (92)** — 50k coins, **+17.1% em 7 dias** (+18.4% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

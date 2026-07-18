@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:07:17.000Z
+pubDatetime: 2026-07-18T01:07:17.000Z
 title: "Mercado EA FC em 17/07: Liga F — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Edna Imade (86, Liga F), com +59% em 24h, a 33k coins no PC."
+    a: "Georgia Stanway (88, Liga F), com +42.1% em 24h, a 62k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sofie Junge Pedersen (86), -33.6% em 24h, a 22k coins."
+    a: "Allegra Poljak (86), -24.5% em 24h, a 37k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 22 cartas em alta contra 28 em queda (média 1.69%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 20 cartas em alta contra 26 em queda (média -0.59%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **17/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **22 cartas subiram** e **28 caíram** (80+ acima de 5k coins), variação média de **1.69%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **17/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **20 cartas subiram** e **26 caíram** (80+ acima de 5k coins), variação média de **-0.59%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Edna Imade (86) **+59%** · 🔴 **Maior baixa:** Sofie Junge Pedersen (86) **-33.6%**
+> 🟢 **Maior alta:** Georgia Stanway (88) **+42.1%** · 🔴 **Maior baixa:** Allegra Poljak (86) **-24.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Liga F — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **17/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.0% entre as cartas que se moveram; o universo observado reúne 65 cartas.
+- **Amplitude do dia:** 66.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 62 cartas.
 - **Concentração:** Liga F aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edna Imade | 86 | Liga F | 33k coins | +59% | +12.8% |
-| Ane Azkona | 88 | Liga F | 50k coins | +54.2% | -15.8% |
-| Alexia Putellas | 92 | Liga F | 64k coins | +48.6% | +42.2% |
-| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +36% |
-| Patri Guijarro | 90 | Liga F | 52k coins | +32.2% | +21% |
-| Linda Caicedo | 87 | Liga F | 75k coins | +27.5% | -13.1% |
-| Allegra Poljak | 86 | Liga F | 43k coins | +27.5% | -5% |
-| Patri Guijarro | 91 | Liga F | 63k coins | +26.2% | +30% |
-| Luany | 88 | Liga F | 36k coins | +25.9% | +27% |
-| Georgia Stanway | 88 | Liga F | 65k coins | +22.4% | +40% |
+| Georgia Stanway | 88 | Liga F | 62k coins | +42.1% | +62.5% |
+| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +34.9% |
+| Linda Caicedo | 87 | Liga F | 70k coins | +34.6% | -17.6% |
+| Caroline Weir | 86 | Liga F | 50k coins | +31.1% | +46.7% |
+| Patri Guijarro | 91 | Liga F | 65k coins | +27.5% | +30% |
+| Ona Batlle | 90 | Liga F | 50k coins | +25.8% | +85.2% |
+| Athenea | 86 | Liga F | 60k coins | +20% | +5.3% |
+| Ane Etxezarreta | 86 | Liga F | 20k coins | +19.4% | -15.8% |
+| Alexia Putellas | 92 | Liga F | 50k coins | +18.4% | +17.1% |
+| Athenea | 86 | Liga F | 42k coins | +16.1% | -8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **17/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Edna Imade (86)** subiu **+59%** em 24h, a **33k coins** (faixa do dia: 18.250–40k). Está em linha com a média de 7 dias (+5%).
+- **Georgia Stanway (88)** subiu **+42.1%** em 24h, a **62k coins** (faixa do dia: 46k–65k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Ane Azkona (88)** subiu **+54.2%** em 24h, a **50k coins** (faixa do dia: 30k–56k). Está em linha com a média de 7 dias (-4%).
+- **Patri Guijarro (90)** subiu **+34.9%** em 24h, a **85k coins** (faixa do dia: 50k–85k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Alexia Putellas (92)** subiu **+48.6%** em 24h, a **64k coins** (faixa do dia: 43k–67k). Está +23% acima da média de 7 dias (aquecida).
+- **Linda Caicedo (87)** subiu **+34.6%** em 24h, a **70k coins** (faixa do dia: 50k–75k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sofie Junge Pedersen | 86 | Liga F | 22k coins | -33.6% | +43.5% |
-| Caroline Weir | 87 | Liga F | 50k coins | -24.9% | -34.1% |
-| Claudia Pina | 88 | Liga F | 531k coins | -14.1% | +9.5% |
-| Sara Däbritz | 86 | Liga F | 43k coins | -13.2% | -19.5% |
+| Allegra Poljak | 86 | Liga F | 37k coins | -24.5% | -25.6% |
+| Irene Paredes | 88 | Liga F | 48k coins | -19.6% | +22.2% |
+| Luany | 88 | Liga F | 32k coins | -18.9% | +12.2% |
 | Mapi León | 90 | Liga F | 44k coins | -13% | +17.6% |
-| Pernille Harder | 87 | Liga F | 44k coins | -12.4% | -4.9% |
-| Wifi | 84 | Liga F | 39k coins | -11.7% | -13.2% |
-| Alexia Putellas | 95 | Liga F | 576k coins | -11.4% | 0% |
-| Claudia Pina | 95 | Liga F | 790k coins | -10.7% | +17.5% |
-| Caroline Graham Hansen | 95 | Liga F | 719k coins | -10% | -4.1% |
+| Rocío Gálvez | 88 | Liga F | 20k coins | -13% | +17.5% |
+| Alexia Putellas | 95 | Liga F | 577k coins | -11.4% | +12.9% |
+| Eva Dios | 85 | Liga F | 22k coins | -11.2% | -13.9% |
+| Claudia Pina | 87 | Liga F | 387k coins | -10.7% | -9.7% |
+| Claudia Pina | 95 | Liga F | 795k coins | -9.7% | +21.4% |
+| Mari José | 86 | Liga F | 35k coins | -8.4% | +35.6% |
 
 
 ### Análise das baixas
 
-- **Sofie Junge Pedersen (86)** caiu **-33.6%** em 24h, a **22k coins** (faixa do dia: 22k–39k). Está -14% abaixo da média de 7 dias (descontada).
+- **Allegra Poljak (86)** caiu **-24.5%** em 24h, a **37k coins** (faixa do dia: 37k–50k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Caroline Weir (87)** caiu **-24.9%** em 24h, a **50k coins** (faixa do dia: 36k–50k). Está +10% acima da média de 7 dias (aquecida).
+- **Irene Paredes (88)** caiu **-19.6%** em 24h, a **48k coins** (faixa do dia: 44k–60k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Claudia Pina (88)** caiu **-14.1%** em 24h, a **531k coins** (faixa do dia: 525k–650k). Está em linha com a média de 7 dias (-7%).
+- **Luany (88)** caiu **-18.9%** em 24h, a **32k coins** (faixa do dia: 32k–45k). Está em linha com a média de 7 dias (+8%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Edna Imade já avançou 59% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Georgia Stanway já avançou 42.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sofie Junge Pedersen recuou -33.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Allegra Poljak recuou -24.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Edna Imade (86, Liga F), com +59% em 24h, a 33k coins no PC.
+Georgia Stanway (88, Liga F), com +42.1% em 24h, a 62k coins no PC.
 
 **E a maior queda do dia?**
-Sofie Junge Pedersen (86), -33.6% em 24h, a 22k coins.
+Allegra Poljak (86), -24.5% em 24h, a 37k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 22 cartas em alta contra 28 em queda (média 1.69%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 20 cartas em alta contra 26 em queda (média -0.59%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
