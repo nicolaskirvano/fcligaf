@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:28:13.000Z
+pubDatetime: 2026-07-18T10:07:18.000Z
 title: "Investimentos EA FC: Liga F em 18/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+44.2% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.0% em 24h** e **+41.6% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -46,18 +46,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Mari José | 86 | Liga F | 43k coins | +11% | +64.4% | Esticada |
 | Caroline Weir | 86 | Liga F | 50k coins | +16.5% | +46.7% | Momentum moderado |
 | Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +41.6% | Esticada |
-| Athenea | 86 | Liga F | 59k coins | +2.7% | +19.6% | Entrada a observar |
+| Athenea | 86 | Liga F | 58k coins | +2.7% | +22.1% | Entrada a observar |
+| Cristina Cubedo | 84 | Liga F | 48k coins | +9.2% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Mari José (86)** — 43k coins, **+64.4% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 50k coins, **+46.7% em 7 dias** (+16.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (86)** — 50k coins, **+46.7% em 7 dias** (+16.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Patri Guijarro (90)** — 66k coins, **+41.6% em 7 dias** (+27.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 59k coins, **+19.6% em 7 dias** (+2.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (86)** — 58k coins, **+22.1% em 7 dias** (+2.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Cristina Cubedo (84)** — 48k coins, **+5.6% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

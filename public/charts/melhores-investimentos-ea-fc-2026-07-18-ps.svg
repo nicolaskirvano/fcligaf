@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Athenea</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Estefanía Banini</text>
-<rect x="285" y="153" width="342" height="28" rx="7" fill="#22c55e"/>
-<text x="637" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
-<rect x="285" y="211" width="299" height="28" rx="7" fill="#22c55e"/>
-<text x="594" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luany</text>
+<rect x="285" y="153" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Estefanía Banini</text>
+<rect x="285" y="211" width="302" height="28" rx="7" fill="#22c55e"/>
+<text x="597" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pernille Harder</text>
-<rect x="285" y="269" width="299" height="28" rx="7" fill="#22c55e"/>
-<text x="594" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
+<rect x="285" y="269" width="279" height="28" rx="7" fill="#22c55e"/>
+<text x="574" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Weir</text>
-<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.8%</text>
+<rect x="285" y="327" width="164" height="28" rx="7" fill="#22c55e"/>
+<text x="459" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ane Azkona</text>
-<rect x="285" y="385" width="163" height="28" rx="7" fill="#22c55e"/>
-<text x="458" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.7%</text>
+<rect x="285" y="385" width="135" height="28" rx="7" fill="#22c55e"/>
+<text x="430" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
 </svg>
