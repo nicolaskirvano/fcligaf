@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:07:09.000Z
+pubDatetime: 2026-07-18T16:07:09.000Z
 title: "Investimentos EA FC: Liga F em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Ewa Pajor (89, Liga F) lidera, com +75% em 7 dias a 208k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (91, Liga F) lidera, com +89.9% em 7 dias a 92k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ewa Pajor (89) acumula **+75% em 7 dias** a 208k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patri Guijarro (91) acumula **+89.9% em 7 dias** a 92k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+16.1% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.6% em 24h** e **+22.9% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ewa Pajor | 89 | Liga F | 208k coins | +8.2% | +75% | Esticada |
-| Pernille Harder | 87 | Liga F | 44k coins | +1.7% | +33.3% | Momentum moderado |
-| Cristina Cubedo | 84 | Liga F | 46k coins | +27.3% | +17.4% | Esticada |
-| Caroline Weir | 86 | Liga F | 43k coins | +22.1% | +16.3% | Esticada |
-| Eva Dios | 85 | Liga F | 15.750 coins | +33.3% | +16.1% | Esticada |
-| Claire Lavogez | 88 | Liga F | 17.250 coins | +10% | +15.8% | Momentum moderado |
-| Elba Vergés | 84 | Liga F | 50k coins | +15% | +15% | Momentum moderado |
-| Andreia Jacinto | 88 | Liga F | 16.750 coins | +3.1% | +11.7% | Entrada a observar |
-| Dolores Silva | 84 | Liga F | 48k coins | +5.6% | +11.1% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 92k coins | +11.8% | +89.9% | Esticada |
+| Ewa Pajor | 89 | Liga F | 175k coins | +1% | +61.2% | Esticada |
+| Mapi León | 90 | Liga F | 69k coins | +13.7% | +56.8% | Momentum moderado |
+| Caroline Weir | 89 | Liga F | 19.750 coins | +12.7% | +33.3% | Momentum moderado |
+| Ane Azkona | 86 | Liga F | 44k coins | +20.4% | +32.2% | Esticada |
+| Esmee Brugts | 88 | Liga F | 19.750 coins | +10.3% | +31.6% | Momentum moderado |
+| Athenea | 86 | Liga F | 36k coins | +4.6% | +23.1% | Entrada a observar |
+| Wifi | 84 | Liga F | 40k coins | +12.9% | +22.7% | Momentum moderado |
+| Pernille Harder | 87 | Liga F | 43k coins | +3.6% | +21.7% | Entrada a observar |
+| Fiamma Benítez | 86 | Liga F | 16.750 coins | +7.6% | +20.3% | Momentum moderado |
+| Eva Dios | 85 | Liga F | 18.000 coins | +22% | +18% | Esticada |
+| Caroline Weir | 87 | Liga F | 42k coins | +29.2% | +17.5% | Esticada |
+| Laia Aleixandri | 86 | Liga F | 36k coins | +11.3% | +12.1% | Momentum moderado |
+| Nerea Nevado | 89 | Liga F | 19.000 coins | +5% | +9.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ewa Pajor (89)** — 208k coins, **+75% em 7 dias** (+8.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 92k coins, **+89.9% em 7 dias** (+11.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pernille Harder (87)** — 44k coins, **+33.3% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ewa Pajor (89)** — 175k coins, **+61.2% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristina Cubedo (84)** — 46k coins, **+17.4% em 7 dias** (+27.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 69k coins, **+56.8% em 7 dias** (+13.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 43k coins, **+16.3% em 7 dias** (+22.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (89)** — 19.750 coins, **+33.3% em 7 dias** (+12.7% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eva Dios (85)** — 15.750 coins, **+16.1% em 7 dias** (+33.3% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Azkona (86)** — 44k coins, **+32.2% em 7 dias** (+20.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Ewa Pajor (89, Liga F) lidera, com +75% em 7 dias a 208k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (91, Liga F) lidera, com +89.9% em 7 dias a 92k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -100,6 +105,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Liga F em 18/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-18-ps/)
 - [Mercado EA FC em 18/07: Liga F — Console (PS)](/posts/mercado-ea-fc-2026-07-18-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
