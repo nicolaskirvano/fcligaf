@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:07:18.000Z
+pubDatetime: 2026-07-18T13:07:18.000Z
 title: "Investimentos EA FC: Liga F em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Mari José (86, Liga F) lidera, com +64.4% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mari José (86, Liga F) lidera, com +64.4% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mari José (86) acumula **+64.4% em 7 dias** a 43k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mari José (86) acumula **+64.4% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.0% em 24h** e **+41.6% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+19.4% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mari José | 86 | Liga F | 43k coins | +11% | +64.4% | Esticada |
-| Caroline Weir | 86 | Liga F | 50k coins | +16.5% | +46.7% | Momentum moderado |
-| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +41.6% | Esticada |
-| Athenea | 86 | Liga F | 58k coins | +2.7% | +22.1% | Entrada a observar |
-| Cristina Cubedo | 84 | Liga F | 48k coins | +9.2% | +5.6% | Momentum moderado |
+| Mari José | 86 | Liga F | 42k coins | +17.9% | +64.4% | Esticada |
+| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +37.1% | Esticada |
+| Andrea Medina | 86 | Liga F | 28k coins | +2.7% | +36.1% | Momentum moderado |
+| Athenea | 86 | Liga F | 56k coins | +10.8% | +20.2% | Momentum moderado |
+| Andreia Jacinto | 88 | Liga F | 22k coins | +22.9% | +19.4% | Esticada |
+| Patri Guijarro | 91 | Liga F | 65k coins | +2.4% | +18.2% | Entrada a observar |
+| Athenea | 86 | Liga F | 46k coins | +6.7% | +12.4% | Momentum moderado |
+| Wifi | 84 | Liga F | 48k coins | +1.6% | +9.2% | Entrada a observar |
+| Cristina Cubedo | 84 | Liga F | 48k coins | +9.8% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mari José (86)** — 43k coins, **+64.4% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mari José (86)** — 42k coins, **+64.4% em 7 dias** (+17.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 50k coins, **+46.7% em 7 dias** (+16.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 85k coins, **+37.1% em 7 dias** (+34.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 66k coins, **+41.6% em 7 dias** (+27.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Medina (86)** — 28k coins, **+36.1% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 58k coins, **+22.1% em 7 dias** (+2.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (86)** — 56k coins, **+20.2% em 7 dias** (+10.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristina Cubedo (84)** — 48k coins, **+5.6% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andreia Jacinto (88)** — 22k coins, **+19.4% em 7 dias** (+22.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Mari José (86, Liga F) lidera, com +64.4% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mari José (86, Liga F) lidera, com +64.4% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
