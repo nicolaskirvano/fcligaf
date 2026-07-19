@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esmee Brugts</text>
-<rect x="285" y="153" width="367" height="28" rx="7" fill="#22c55e"/>
-<text x="662" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Irene Paredes</text>
-<rect x="285" y="211" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.5%</text>
+<rect x="285" y="153" width="388" height="28" rx="7" fill="#22c55e"/>
+<text x="683" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Weir</text>
+<rect x="285" y="211" width="336" height="28" rx="7" fill="#22c55e"/>
+<text x="631" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Athenea</text>
-<rect x="285" y="269" width="272" height="28" rx="7" fill="#22c55e"/>
-<text x="567" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
+<rect x="285" y="269" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.2%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
-<rect x="285" y="327" width="190" height="28" rx="7" fill="#22c55e"/>
-<text x="485" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.8%</text>
+<rect x="285" y="327" width="223" height="28" rx="7" fill="#22c55e"/>
+<text x="518" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.8%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eva Dios</text>
-<rect x="285" y="385" width="112" height="28" rx="7" fill="#22c55e"/>
-<text x="407" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.3%</text>
+<rect x="285" y="385" width="131" height="28" rx="7" fill="#22c55e"/>
+<text x="426" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.3%</text>
 </svg>
