@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:07:18.000Z
+pubDatetime: 2026-07-20T16:07:19.000Z
 title: "Investimentos EA FC: Liga F em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Luany (88, Liga F) lidera, com +76.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luany (88, Liga F) lidera, com +85.6% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luany (88) acumula **+76.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luany (88) acumula **+85.6% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.6% em 24h** e **+12.4% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.6% em 24h** e **+11.4% em 7 dias**.
+- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luany | 88 | Liga F | 45k coins | +13.2% | +76.5% | Esticada |
-| Rocío Gálvez | 88 | Liga F | 32k coins | +35.4% | +68.8% | Esticada |
-| Andrea Medina | 86 | Liga F | 24k coins | +6.5% | +12.5% | Momentum moderado |
-| Cristina Cubedo | 84 | Liga F | 48k coins | +16.6% | +12.4% | Momentum moderado |
-| Athenea | 86 | Liga F | 46k coins | +8.9% | +12.2% | Momentum moderado |
-| Dolores Silva | 84 | Liga F | 38k coins | +20% | +6.4% | Esticada |
-| Esperanza Pizarro | 84 | Liga F | 48k coins | +22.6% | +5.6% | Esticada |
+| Luany | 88 | Liga F | 45k coins | +13.2% | +85.6% | Esticada |
+| Rocío Gálvez | 88 | Liga F | 32k coins | +35.4% | +38.3% | Esticada |
+| Cristina Cubedo | 84 | Liga F | 48k coins | +22.6% | +13.8% | Esticada |
+| Allegra Poljak | 86 | Liga F | 47k coins | +11% | +9.1% | Momentum moderado |
+| Athenea | 86 | Liga F | 43k coins | +8% | +8% | Momentum moderado |
+| Dolores Silva | 84 | Liga F | 38k coins | +22% | +6.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Luany (88)** — 45k coins, **+76.5% em 7 dias** (+13.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luany (88)** — 45k coins, **+85.6% em 7 dias** (+13.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (88)** — 32k coins, **+68.8% em 7 dias** (+35.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rocío Gálvez (88)** — 32k coins, **+38.3% em 7 dias** (+35.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andrea Medina (86)** — 24k coins, **+12.5% em 7 dias** (+6.5% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cristina Cubedo (84)** — 48k coins, **+13.8% em 7 dias** (+22.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristina Cubedo (84)** — 48k coins, **+12.4% em 7 dias** (+16.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Allegra Poljak (86)** — 47k coins, **+9.1% em 7 dias** (+11% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 46k coins, **+12.2% em 7 dias** (+8.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (86)** — 43k coins, **+8% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Luany (88, Liga F) lidera, com +76.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luany (88, Liga F) lidera, com +85.6% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
