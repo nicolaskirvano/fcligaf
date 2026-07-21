@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:07:18.000Z
+pubDatetime: 2026-07-21T16:07:18.000Z
 title: "Investimentos EA FC: Liga F em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Mapi León (90, Liga F) lidera, com +63.4% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aitana Bonmatí (91, Liga F) lidera, com +83.7% em 7 dias a 19.250 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mapi León (90) acumula **+63.4% em 7 dias** a 72k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aitana Bonmatí (91) acumula **+83.7% em 7 dias** a 19.250 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.9% em 24h** e **+27.7% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+59.8% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 72k coins | +38.2% | +63.4% | Esticada |
-| Amaiur Sarriegi | 88 | Liga F | 94k coins | +18.9% | +45.4% | Momentum moderado |
+| Aitana Bonmatí | 91 | Liga F | 19.250 coins | +14.5% | +83.7% | Esticada |
+| Georgia Stanway | 88 | Liga F | 65k coins | +22.6% | +80.6% | Esticada |
+| Ona Batlle | 90 | Liga F | 44k coins | +9.3% | +69.5% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 94k coins | +18.9% | +50% | Momentum moderado |
 | Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +27.7% | Momentum moderado |
-| Athenea | 86 | Liga F | 46k coins | +2.2% | +12.2% | Entrada a observar |
-| Andreia Jacinto | 88 | Liga F | 19.250 coins | +40% | +11.6% | Esticada |
+| Alexia Putellas | 92 | Liga F | 64k coins | +18.9% | +18.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mapi León (90)** — 72k coins, **+63.4% em 7 dias** (+38.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 19.250 coins, **+83.7% em 7 dias** (+14.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Amaiur Sarriegi (88)** — 94k coins, **+45.4% em 7 dias** (+18.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 65k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 50k coins, **+27.7% em 7 dias** (+3.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ona Batlle (90)** — 44k coins, **+69.5% em 7 dias** (+9.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 46k coins, **+12.2% em 7 dias** (+2.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amaiur Sarriegi (88)** — 94k coins, **+50% em 7 dias** (+18.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andreia Jacinto (88)** — 19.250 coins, **+11.6% em 7 dias** (+40% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (86)** — 50k coins, **+27.7% em 7 dias** (+3.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Mapi León (90, Liga F) lidera, com +63.4% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aitana Bonmatí (91, Liga F) lidera, com +83.7% em 7 dias a 19.250 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
