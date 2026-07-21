@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:07:09.000Z
+pubDatetime: 2026-07-21T01:07:09.000Z
 title: "Investimentos EA FC: Liga F em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Dolores Silva (84, Liga F) lidera, com +32.6% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mapi León (90, Liga F) lidera, com +83.1% em 7 dias a 79k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dolores Silva (84) acumula **+32.6% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Mapi León (90) acumula **+83.1% em 7 dias** a 79k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.0% em 24h** e **+12.4% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.9% em 24h** e **+14.5% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dolores Silva | 84 | Liga F | 48k coins | +17.2% | +32.6% | Momentum moderado |
-| Allegra Poljak | 87 | Liga F | 17.750 coins | +16.1% | +14% | Momentum moderado |
-| Fiamma Benítez | 84 | Liga F | 48k coins | +5.6% | +12.4% | Momentum moderado |
-| Ane Etxezarreta | 86 | Liga F | 16.500 coins | +13% | +10.9% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 35k coins | +7.1% | +5.7% | Momentum moderado |
+| Mapi León | 90 | Liga F | 79k coins | +20% | +83.1% | Esticada |
+| Dolores Silva | 84 | Liga F | 48k coins | +17.2% | +35.5% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 34k coins | +5.6% | +19% | Momentum moderado |
+| Andreia Jacinto | 88 | Liga F | 17.750 coins | +29.1% | +14.5% | Esticada |
+| Rocío Gálvez | 85 | Liga F | 16.000 coins | +12.9% | +11.1% | Momentum moderado |
+| Cristina Cubedo | 84 | Liga F | 39k coins | +3.3% | +6.1% | Entrada a observar |
+| Ane Azkona | 86 | Liga F | 43k coins | +7.3% | +5.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dolores Silva (84)** — 48k coins, **+32.6% em 7 dias** (+17.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 79k coins, **+83.1% em 7 dias** (+20% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allegra Poljak (87)** — 17.750 coins, **+14% em 7 dias** (+16.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dolores Silva (84)** — 48k coins, **+35.5% em 7 dias** (+17.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fiamma Benítez (84)** — 48k coins, **+12.4% em 7 dias** (+5.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Laia Aleixandri (86)** — 34k coins, **+19% em 7 dias** (+5.6% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ane Etxezarreta (86)** — 16.500 coins, **+10.9% em 7 dias** (+13% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andreia Jacinto (88)** — 17.750 coins, **+14.5% em 7 dias** (+29.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 35k coins, **+5.7% em 7 dias** (+7.1% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rocío Gálvez (85)** — 16.000 coins, **+11.1% em 7 dias** (+12.9% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Dolores Silva (84, Liga F) lidera, com +32.6% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mapi León (90, Liga F) lidera, com +83.1% em 7 dias a 79k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -96,7 +98,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Liga F em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Liga F — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
