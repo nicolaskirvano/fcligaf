@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:07:18.000Z
+pubDatetime: 2026-07-21T19:07:18.000Z
 title: "Investimentos EA FC: Liga F em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Aitana Bonmatí (91, Liga F) lidera, com +83.7% em 7 dias a 19.250 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Vicky López (87, Liga F) lidera, com +85.7% em 7 dias a 99k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aitana Bonmatí (91) acumula **+83.7% em 7 dias** a 19.250 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Vicky López (87) acumula **+85.7% em 7 dias** a 99k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+59.8% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+34.5% em 7 dias**.
+- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | Liga F | 19.250 coins | +14.5% | +83.7% | Esticada |
-| Georgia Stanway | 88 | Liga F | 65k coins | +22.6% | +80.6% | Esticada |
-| Ona Batlle | 90 | Liga F | 44k coins | +9.3% | +69.5% | Esticada |
-| Amaiur Sarriegi | 88 | Liga F | 94k coins | +18.9% | +50% | Momentum moderado |
+| Vicky López | 87 | Liga F | 99k coins | +30% | +85.7% | Esticada |
+| Georgia Stanway | 88 | Liga F | 65k coins | +13.6% | +46.2% | Momentum moderado |
+| Ona Batlle | 90 | Liga F | 44k coins | +3.6% | +45.8% | Momentum moderado |
+| Caroline Graham Hansen | 90 | Liga F | 32k coins | +6.1% | +36.3% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 69k coins | +32.7% | +32.7% | Esticada |
+| Alexia Putellas | 91 | Liga F | 16.750 coins | +16.7% | +31.2% | Momentum moderado |
 | Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +27.7% | Momentum moderado |
-| Alexia Putellas | 92 | Liga F | 64k coins | +18.9% | +18.9% | Momentum moderado |
+| Emilie Nautnes | 84 | Liga F | 50k coins | +1% | +17% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Aitana Bonmatí (91)** — 19.250 coins, **+83.7% em 7 dias** (+14.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vicky López (87)** — 99k coins, **+85.7% em 7 dias** (+30% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (88)** — 65k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 65k coins, **+46.2% em 7 dias** (+13.6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ona Batlle (90)** — 44k coins, **+69.5% em 7 dias** (+9.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ona Batlle (90)** — 44k coins, **+45.8% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Amaiur Sarriegi (88)** — 94k coins, **+50% em 7 dias** (+18.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Graham Hansen (90)** — 32k coins, **+36.3% em 7 dias** (+6.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 50k coins, **+27.7% em 7 dias** (+3.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (92)** — 69k coins, **+32.7% em 7 dias** (+32.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +81,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Aitana Bonmatí (91, Liga F) lidera, com +83.7% em 7 dias a 19.250 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Vicky López (87, Liga F) lidera, com +85.7% em 7 dias a 99k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
