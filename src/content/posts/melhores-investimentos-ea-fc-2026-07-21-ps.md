@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:07:09.000Z
+pubDatetime: 2026-07-21T22:07:09.000Z
 title: "Investimentos EA FC: Liga F em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Alexia Putellas (91, Liga F) lidera, com +46.9% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (90, Liga F) lidera, com +80% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexia Putellas (91) acumula **+46.9% em 7 dias** a 22k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+80% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+15.8% em 7 dias**.
-- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.0% em 24h** e **+41.8% em 7 dias**.
+- **5 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | Liga F | 22k coins | +28.8% | +46.9% | Esticada |
-| Aitana Bonmatí | 91 | Liga F | 24k coins | +18.3% | +32.9% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 41k coins | +5% | +18.3% | Entrada a observar |
-| Allegra Poljak | 87 | Liga F | 15.750 coins | +4.6% | +13.3% | Entrada a observar |
-| Rocío Gálvez | 85 | Liga F | 17.250 coins | +19% | +9.5% | Momentum moderado |
-| Cristina Cubedo | 84 | Liga F | 43k coins | +17% | +8.9% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 100k coins | +32.4% | +80% | Esticada |
+| Estefanía Banini | 89 | Liga F | 26k coins | +25% | +54.4% | Esticada |
+| Nerea Nevado | 89 | Liga F | 26k coins | +26.7% | +44.3% | Esticada |
+| Alexia Putellas | 91 | Liga F | 23k coins | +25% | +41.8% | Esticada |
+| Aitana Bonmatí | 91 | Liga F | 23k coins | +18.3% | +27.6% | Momentum moderado |
+| Caroline Weir | 89 | Liga F | 17.000 coins | +26.5% | +10.3% | Esticada |
+| Cristina Cubedo | 84 | Liga F | 42k coins | +9.6% | +8.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexia Putellas (91)** — 22k coins, **+46.9% em 7 dias** (+28.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 100k coins, **+80% em 7 dias** (+32.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aitana Bonmatí (91)** — 24k coins, **+32.9% em 7 dias** (+18.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 26k coins, **+54.4% em 7 dias** (+25% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 41k coins, **+18.3% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nerea Nevado (89)** — 26k coins, **+44.3% em 7 dias** (+26.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allegra Poljak (87)** — 15.750 coins, **+13.3% em 7 dias** (+4.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 23k coins, **+41.8% em 7 dias** (+25% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (85)** — 17.250 coins, **+9.5% em 7 dias** (+19% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 23k coins, **+27.6% em 7 dias** (+18.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Alexia Putellas (91, Liga F) lidera, com +46.9% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (90, Liga F) lidera, com +80% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
