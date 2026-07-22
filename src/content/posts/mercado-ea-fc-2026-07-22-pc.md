@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:07:17.000Z
+pubDatetime: 2026-07-22T16:07:17.000Z
 title: "Mercado EA FC em 22/07: Liga F — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Andreia Jacinto (88, Liga F), com +47.8% em 24h, a 25k coins no PC."
+    a: "Caroline Graham Hansen (92, Liga F), com +48.7% em 24h, a 388k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nerea Nevado (89), -33.3% em 24h, a 31k coins."
+    a: "Mari José (86), -31.4% em 24h, a 40k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 21 cartas em alta contra 29 em queda (média 0.63%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 19 cartas em alta contra 33 em queda (média -0.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **22/07/2026** no PC com mercado **lateral** — sem direção clara: **21 cartas subiram** e **29 caíram** (80+ acima de 5k coins), variação média de **0.63%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **22/07/2026** no PC com mercado **em baixa** — predominam as quedas: **19 cartas subiram** e **33 caíram** (80+ acima de 5k coins), variação média de **-0.83%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Andreia Jacinto (88) **+47.8%** · 🔴 **Maior baixa:** Nerea Nevado (89) **-33.3%**
+> 🟢 **Maior alta:** Caroline Graham Hansen (92) **+48.7%** · 🔴 **Maior baixa:** Mari José (86) **-31.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Liga F — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **22/07/2026** no PC com mercado **lateral** — sem
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.0% entre as cartas que se moveram; o universo observado reúne 58 cartas.
+- **Amplitude do dia:** 80.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.5% entre as cartas que se moveram; o universo observado reúne 63 cartas.
 - **Concentração:** Liga F aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 25k coins | +47.8% | +70% |
-| Sydney Schertenleib | 86 | Liga F | 43k coins | +21.5% | -1.5% |
-| Alexia Putellas | 95 | Liga F | 797k coins | +21.1% | +26.7% |
-| Claudia Pina | 92 | Liga F | 1.10M coins | +20% | -20% |
-| Patri Guijarro | 91 | Liga F | 75k coins | +19% | +15.4% |
-| Laia Aleixandri | 86 | Liga F | 36k coins | +14% | -18.4% |
-| Claudia Pina | 88 | Liga F | 267k coins | +10% | +2.4% |
-| Pernille Harder | 87 | Liga F | 44k coins | +8.5% | -0.6% |
-| Alexia Putellas | 91 | Liga F | 20k coins | +5.6% | -1.3% |
-| Allegra Poljak | 86 | Liga F | 38k coins | +4.6% | -2.5% |
+| Caroline Graham Hansen | 92 | Liga F | 388k coins | +48.7% | +6% |
+| Claire Lavogez | 88 | Liga F | 24k coins | +16.7% | +55.6% |
+| Linda Caicedo | 87 | Liga F | 46k coins | +15.1% | -8.5% |
+| Ona Batlle | 90 | Liga F | 50k coins | +13.6% | +42.9% |
+| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +11.1% | +20.9% |
+| Fiamma Benítez | 84 | Liga F | 42k coins | +10.3% | -5.3% |
+| Esperanza Pizarro | 84 | Liga F | 48k coins | +8.6% | +2.7% |
+| Laia Aleixandri | 86 | Liga F | 50k coins | +6.7% | -26.3% |
+| Patri Guijarro | 90 | Liga F | 70k coins | +5.8% | +82.4% |
+| Emilie Nautnes | 84 | Liga F | 52k coins | +5% | -0.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **22/07/2026** no PC com mercado **lateral** — sem
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Andreia Jacinto (88)** subiu **+47.8%** em 24h, a **25k coins** (faixa do dia: 11.000–27k). Está +34% acima da média de 7 dias (aquecida).
+- **Caroline Graham Hansen (92)** subiu **+48.7%** em 24h, a **388k coins** (faixa do dia: 261k–430k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Sydney Schertenleib (86)** subiu **+21.5%** em 24h, a **43k coins** (faixa do dia: 43k–50k). Está em linha com a média de 7 dias (-1%).
+- **Claire Lavogez (88)** subiu **+16.7%** em 24h, a **24k coins** (faixa do dia: 15.250–31k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Alexia Putellas (95)** subiu **+21.1%** em 24h, a **797k coins** (faixa do dia: 659k–850k). Está +23% acima da média de 7 dias (aquecida).
+- **Linda Caicedo (87)** subiu **+15.1%** em 24h, a **46k coins** (faixa do dia: 36k–77k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 31k coins | -33.3% | +18.1% |
-| Salma Paralluelo | 93 | Liga F | 1.80M coins | -33.3% | -21.7% |
-| Rocío Gálvez | 85 | Liga F | 20k coins | -32.5% | 0% |
-| Mari José | 86 | Liga F | 41k coins | -30.7% | +43.5% |
-| Alexia Putellas | 92 | Liga F | 48k coins | -28% | +1.1% |
-| Patri Guijarro | 90 | Liga F | 50k coins | -27% | +25.8% |
-| Amaiur Sarriegi | 88 | Liga F | 75k coins | -20.1% | +68.7% |
-| Claudia Pina | 95 | Liga F | 730k coins | -18.6% | -28.3% |
-| Athenea | 86 | Liga F | 38k coins | -17.4% | -0.7% |
-| Rocío Gálvez | 88 | Liga F | 24k coins | -14.5% | -27.7% |
+| Mari José | 86 | Liga F | 40k coins | -31.4% | +40.9% |
+| Alexia Putellas | 92 | Liga F | 48k coins | -30.8% | +1.6% |
+| Nerea Nevado | 89 | Liga F | 26k coins | -28.7% | +8.6% |
+| Caroline Weir | 87 | Liga F | 47k coins | -26.2% | +4.3% |
+| Vicky López | 87 | Liga F | 99k coins | -23.8% | +32% |
+| Athenea | 86 | Liga F | 35k coins | -19.5% | -11.1% |
+| Claudia Pina | 95 | Liga F | 659k coins | -17.4% | -30.5% |
+| Estefanía Banini | 89 | Liga F | 26k coins | -16.2% | +17.2% |
+| Claudia Pina | 92 | Liga F | 1.45M coins | -14.9% | -33.3% |
+| Alexia Putellas | 95 | Liga F | 737k coins | -12.8% | +17% |
 
 
 ### Análise das baixas
 
-- **Nerea Nevado (89)** caiu **-33.3%** em 24h, a **31k coins** (faixa do dia: 24k–46k). Está em linha com a média de 7 dias (+4%).
+- **Mari José (86)** caiu **-31.4%** em 24h, a **40k coins** (faixa do dia: 37k–59k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Salma Paralluelo (93)** caiu **-33.3%** em 24h, a **1.80M coins** (faixa do dia: 1.76M–2.70M). Está -21% abaixo da média de 7 dias (descontada).
+- **Alexia Putellas (92)** caiu **-30.8%** em 24h, a **48k coins** (faixa do dia: 40k–69k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Rocío Gálvez (85)** caiu **-32.5%** em 24h, a **20k coins** (faixa do dia: 20k–30k). Está -10% abaixo da média de 7 dias (descontada).
+- **Nerea Nevado (89)** caiu **-28.7%** em 24h, a **26k coins** (faixa do dia: 24k–46k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Andreia Jacinto já avançou 47.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Caroline Graham Hansen já avançou 48.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nerea Nevado recuou -33.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mari José recuou -31.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,6 +107,7 @@ O mercado do **EA FC** abre **22/07/2026** no PC com mercado **lateral** — sem
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Liga F em 22/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-22-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -117,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Andreia Jacinto (88, Liga F), com +47.8% em 24h, a 25k coins no PC.
+Caroline Graham Hansen (92, Liga F), com +48.7% em 24h, a 388k coins no PC.
 
 **E a maior queda do dia?**
-Nerea Nevado (89), -33.3% em 24h, a 31k coins.
+Mari José (86), -31.4% em 24h, a 40k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 21 cartas em alta contra 29 em queda (média 0.63%).
+Hoje o mercado está em baixa — predominam as quedas, com 19 cartas em alta contra 33 em queda (média -0.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
