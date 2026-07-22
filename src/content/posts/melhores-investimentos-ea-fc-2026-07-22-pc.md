@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:07:19.000Z
+pubDatetime: 2026-07-22T19:07:18.000Z
 title: "Investimentos EA FC: Liga F em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Patri Guijarro (90, Liga F) lidera, com +82.4% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ona Batlle (90, Liga F) lidera, com +42.9% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patri Guijarro (90) acumula **+82.4% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ona Batlle (90) acumula **+42.9% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+49.2% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.3% em 24h** e **+30.7% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 90 | Liga F | 70k coins | +5.8% | +82.4% | Esticada |
-| Claire Lavogez | 88 | Liga F | 24k coins | +16.7% | +55.6% | Momentum moderado |
-| Ona Batlle | 90 | Liga F | 50k coins | +13.6% | +42.9% | Momentum moderado |
-| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +11.1% | +20.9% | Momentum moderado |
+| Ona Batlle | 90 | Liga F | 50k coins | +14.3% | +42.9% | Momentum moderado |
+| Georgia Stanway | 88 | Liga F | 65k coins | +11.1% | +42.9% | Momentum moderado |
+| Caroline Graham Hansen | 90 | Liga F | 37k coins | +12.9% | +30.7% | Momentum moderado |
+| Sofie Junge Pedersen | 86 | Liga F | 23k coins | +24.4% | +12.1% | Esticada |
+| Sara Däbritz | 86 | Liga F | 45k coins | +13.3% | +11.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (90)** — 70k coins, **+82.4% em 7 dias** (+5.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ona Batlle (90)** — 50k coins, **+42.9% em 7 dias** (+14.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claire Lavogez (88)** — 24k coins, **+55.6% em 7 dias** (+16.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 65k coins, **+42.9% em 7 dias** (+11.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ona Batlle (90)** — 50k coins, **+42.9% em 7 dias** (+13.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Graham Hansen (90)** — 37k coins, **+30.7% em 7 dias** (+12.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofie Junge Pedersen (86)** — 26k coins, **+20.9% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofie Junge Pedersen (86)** — 23k coins, **+12.1% em 7 dias** (+24.4% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Sara Däbritz (86)** — 45k coins, **+11.2% em 7 dias** (+13.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -73,6 +76,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Liga F em 22/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-22-pc/)
 - [Mercado EA FC em 22/07: Liga F — PC](/posts/mercado-ea-fc-2026-07-22-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -84,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Patri Guijarro (90, Liga F) lidera, com +82.4% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ona Batlle (90, Liga F) lidera, com +42.9% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
