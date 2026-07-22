@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Estefanía Banini</text>
-<rect x="285" y="153" width="326" height="28" rx="7" fill="#22c55e"/>
-<text x="621" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nerea Nevado</text>
-<rect x="285" y="211" width="266" height="28" rx="7" fill="#22c55e"/>
-<text x="561" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Graham Hansen</text>
+<rect x="285" y="153" width="400" height="28" rx="7" fill="#22c55e"/>
+<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="211" width="238" height="28" rx="7" fill="#22c55e"/>
+<text x="533" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.7%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
-<rect x="285" y="269" width="251" height="28" rx="7" fill="#22c55e"/>
-<text x="546" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.8%</text>
+<rect x="285" y="269" width="223" height="28" rx="7" fill="#22c55e"/>
+<text x="518" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.9%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aitana Bonmatí</text>
-<rect x="285" y="327" width="166" height="28" rx="7" fill="#22c55e"/>
-<text x="461" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Weir</text>
-<rect x="285" y="385" width="62" height="28" rx="7" fill="#22c55e"/>
-<text x="357" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.3%</text>
+<rect x="285" y="327" width="113" height="28" rx="7" fill="#22c55e"/>
+<text x="408" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Allegra Poljak</text>
+<rect x="285" y="385" width="86" height="28" rx="7" fill="#22c55e"/>
+<text x="381" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.7%</text>
 </svg>
