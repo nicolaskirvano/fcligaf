@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:07:18.000Z
+pubDatetime: 2026-07-23T16:07:18.000Z
 title: "Investimentos EA FC: Liga F em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Nerea Nevado (89, Liga F) lidera, com +71.4% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mapi León (90, Liga F) lidera, com +52% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nerea Nevado (89) acumula **+71.4% em 7 dias** a 41k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mapi León (90) acumula **+52% em 7 dias** a 75k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.6% em 24h** e **+29.9% em 7 dias**.
-- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.2% em 24h** e **+26.4% em 7 dias**.
+- **2 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 41k coins | +36.6% | +71.4% | Esticada |
-| Mapi León | 90 | Liga F | 76k coins | +7.8% | +43.4% | Momentum moderado |
-| Andreia Jacinto | 88 | Liga F | 22k coins | +1.1% | +42.4% | Momentum moderado |
-| Sydney Schertenleib | 86 | Liga F | 50k coins | +13.6% | +29.9% | Momentum moderado |
-| Ane Azkona | 86 | Liga F | 43k coins | +9.3% | +22.1% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +19.3% | Entrada a observar |
-| Wifi | 84 | Liga F | 48k coins | +8.6% | +6.1% | Momentum moderado |
+| Mapi León | 90 | Liga F | 75k coins | +7.8% | +52% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 73k coins | +6.6% | +51.3% | Momentum moderado |
+| Edna Imade | 86 | Liga F | 47k coins | +11.2% | +35% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 83k coins | +4.9% | +34.9% | Momentum moderado |
+| Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +26.9% | Momentum moderado |
+| Allegra Poljak | 86 | Liga F | 50k coins | +29.9% | +25.8% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 80k coins | +2.9% | +25.2% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 64k coins | +39.9% | +16.4% | Esticada |
+| Sydney Schertenleib | 86 | Liga F | 44k coins | +1.1% | +14.8% | Entrada a observar |
+| Wifi | 84 | Liga F | 44k coins | +11.8% | +6.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nerea Nevado (89)** — 41k coins, **+71.4% em 7 dias** (+36.6% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 75k coins, **+52% em 7 dias** (+7.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (90)** — 76k coins, **+43.4% em 7 dias** (+7.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 73k coins, **+51.3% em 7 dias** (+6.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andreia Jacinto (88)** — 22k coins, **+42.4% em 7 dias** (+1.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edna Imade (86)** — 47k coins, **+35% em 7 dias** (+11.2% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sydney Schertenleib (86)** — 50k coins, **+29.9% em 7 dias** (+13.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 83k coins, **+34.9% em 7 dias** (+4.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ane Azkona (86)** — 43k coins, **+22.1% em 7 dias** (+9.3% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (86)** — 50k coins, **+26.9% em 7 dias** (+3.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +83,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Nerea Nevado (89, Liga F) lidera, com +71.4% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mapi León (90, Liga F) lidera, com +52% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -98,7 +101,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Liga F em 23/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-23-pc/)
 - [Mercado EA FC em 23/07: Liga F — PC](/posts/mercado-ea-fc-2026-07-23-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
