@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:28:40.000Z
+pubDatetime: 2026-07-23T10:07:18.000Z
 title: "Investimentos EA FC: Liga F em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Caroline Weir (87, Liga F) lidera, com +30.1% em 7 dias a 52k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sydney Schertenleib (86, Liga F) lidera, com +29% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caroline Weir (87) acumula **+30.1% em 7 dias** a 52k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sydney Schertenleib (86) acumula **+29% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.3% em 24h** e **+22.8% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+4.1% em 24h** e **+22.2% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caroline Weir | 87 | Liga F | 52k coins | +31.7% | +30.1% | Esticada |
-| Sydney Schertenleib | 86 | Liga F | 50k coins | +3.6% | +29.9% | Momentum moderado |
-| Sara Däbritz | 86 | Liga F | 44k coins | +11.9% | +22.8% | Momentum moderado |
+| Sydney Schertenleib | 86 | Liga F | 50k coins | +3.6% | +29% | Momentum moderado |
+| Caroline Weir | 87 | Liga F | 52k coins | +7% | +25.1% | Momentum moderado |
 | Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +19.3% | Entrada a observar |
-| Cristina Cubedo | 84 | Liga F | 48k coins | +7.3% | +14.5% | Momentum moderado |
+| Amaiur Sarriegi | 88 | Liga F | 80k coins | +4.6% | +16.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Caroline Weir (87)** — 52k coins, **+30.1% em 7 dias** (+31.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Schertenleib (86)** — 50k coins, **+29% em 7 dias** (+3.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sydney Schertenleib (86)** — 50k coins, **+29.9% em 7 dias** (+3.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Sara Däbritz (86)** — 44k coins, **+22.8% em 7 dias** (+11.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Weir (87)** — 52k coins, **+25.1% em 7 dias** (+7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Caroline Weir (86)** — 50k coins, **+19.3% em 7 dias** (+3.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristina Cubedo (84)** — 48k coins, **+14.5% em 7 dias** (+7.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amaiur Sarriegi (88)** — 80k coins, **+16.9% em 7 dias** (+4.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Caroline Weir (87, Liga F) lidera, com +30.1% em 7 dias a 52k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sydney Schertenleib (86, Liga F) lidera, com +29% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

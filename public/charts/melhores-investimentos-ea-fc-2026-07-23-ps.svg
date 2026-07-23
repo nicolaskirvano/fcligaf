@@ -4,19 +4,19 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esperanza Pizarro</text>
-<rect x="285" y="153" width="145" height="28" rx="7" fill="#22c55e"/>
-<text x="440" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Schertenleib</text>
-<rect x="285" y="211" width="131" height="28" rx="7" fill="#22c55e"/>
-<text x="426" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Weir</text>
-<rect x="285" y="269" width="114" height="28" rx="7" fill="#22c55e"/>
-<text x="409" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vicky López</text>
-<rect x="285" y="327" width="102" height="28" rx="7" fill="#22c55e"/>
-<text x="397" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="153" width="453" height="28" rx="7" fill="#22c55e"/>
+<text x="748" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vicky López</text>
+<rect x="285" y="211" width="196" height="28" rx="7" fill="#22c55e"/>
+<text x="491" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Schertenleib</text>
+<rect x="285" y="269" width="159" height="28" rx="7" fill="#22c55e"/>
+<text x="454" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Weir</text>
+<rect x="285" y="327" width="130" height="28" rx="7" fill="#22c55e"/>
+<text x="425" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.4%</text>
 </svg>
