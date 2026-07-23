@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:07:09.000Z
+pubDatetime: 2026-07-23T13:07:09.000Z
 title: "Investimentos EA FC: Liga F em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Mapi León (90, Liga F) lidera, com +57% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mapi León (90, Liga F) lidera, com +48.4% em 7 dias a 94k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mapi León (90) acumula **+57% em 7 dias** a 95k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mapi León (90) acumula **+48.4% em 7 dias** a 94k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+23.3% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.0% em 24h** e **+20.7% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 95k coins | +21% | +57% | Esticada |
-| Patri Guijarro | 90 | Liga F | 110k coins | +15.6% | +53.8% | Momentum moderado |
-| Vicky López | 87 | Liga F | 66k coins | +34.7% | +23.3% | Esticada |
-| Sydney Schertenleib | 86 | Liga F | 47k coins | +17.6% | +18.9% | Momentum moderado |
-| Caroline Weir | 87 | Liga F | 38k coins | +17.2% | +15.4% | Momentum moderado |
+| Mapi León | 90 | Liga F | 94k coins | +21% | +48.4% | Esticada |
+| Patri Guijarro | 90 | Liga F | 99k coins | +4.9% | +46.2% | Momentum moderado |
+| Allegra Poljak | 87 | Liga F | 22k coins | +34.3% | +28.6% | Esticada |
+| Patri Guijarro | 91 | Liga F | 99k coins | +35.6% | +20.7% | Esticada |
+| Sara Däbritz | 86 | Liga F | 54k coins | +33.3% | +15.6% | Esticada |
+| Caroline Weir | 87 | Liga F | 34k coins | +9.7% | +13.1% | Momentum moderado |
+| Caroline Weir | 86 | Liga F | 42k coins | +1.8% | +5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Mapi León (90)** — 95k coins, **+57% em 7 dias** (+21% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 94k coins, **+48.4% em 7 dias** (+21% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 110k coins, **+53.8% em 7 dias** (+15.6% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 99k coins, **+46.2% em 7 dias** (+4.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vicky López (87)** — 66k coins, **+23.3% em 7 dias** (+34.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Allegra Poljak (87)** — 22k coins, **+28.6% em 7 dias** (+34.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sydney Schertenleib (86)** — 47k coins, **+18.9% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 99k coins, **+20.7% em 7 dias** (+35.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (87)** — 38k coins, **+15.4% em 7 dias** (+17.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sara Däbritz (86)** — 54k coins, **+15.6% em 7 dias** (+33.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Mapi León (90, Liga F) lidera, com +57% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mapi León (90, Liga F) lidera, com +48.4% em 7 dias a 94k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
