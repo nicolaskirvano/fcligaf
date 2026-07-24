@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T09:25:10.000Z
+pubDatetime: 2026-07-24T10:07:09.000Z
 title: "Investimentos EA FC: Liga F em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Patri Guijarro (90, Liga F) lidera, com +76.6% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (90, Liga F) lidera, com +78.2% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patri Guijarro (90) acumula **+76.6% em 7 dias** a 98k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+78.2% em 7 dias** a 98k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga F em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.3% em 24h** e **+28.7% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.5% em 24h** e **+33.8% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 90 | Liga F | 98k coins | +3.7% | +76.6% | Esticada |
+| Patri Guijarro | 90 | Liga F | 98k coins | +3.7% | +78.2% | Esticada |
 | Patri Guijarro | 91 | Liga F | 128k coins | +28% | +49.7% | Esticada |
-| Caroline Graham Hansen | 90 | Liga F | 36k coins | +16.7% | +40% | Momentum moderado |
-| Sara Däbritz | 86 | Liga F | 54k coins | +2.9% | +35.4% | Momentum moderado |
+| Caroline Graham Hansen | 90 | Liga F | 40k coins | +18.3% | +42% | Momentum moderado |
+| Sara Däbritz | 86 | Liga F | 54k coins | +2.9% | +33.8% | Momentum moderado |
 | Cristina Cubedo | 84 | Liga F | 40k coins | +12.2% | +28.7% | Momentum moderado |
-| Elba Vergés | 84 | Liga F | 43k coins | +7.3% | +23.1% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 36k coins | +3.5% | +8.8% | Entrada a observar |
-| Estefanía Banini | 89 | Liga F | 24k coins | +15.3% | +6.5% | Momentum moderado |
-| Athenea | 86 | Liga F | 36k coins | +3.4% | +5.6% | Entrada a observar |
+| Elba Vergés | 84 | Liga F | 40k coins | +5.5% | +21% | Momentum moderado |
+| Allegra Poljak | 86 | Liga F | 40k coins | +3.8% | +13.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (90)** — 98k coins, **+76.6% em 7 dias** (+3.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 98k coins, **+78.2% em 7 dias** (+3.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Patri Guijarro (91)** — 128k coins, **+49.7% em 7 dias** (+28% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Graham Hansen (90)** — 36k coins, **+40% em 7 dias** (+16.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Graham Hansen (90)** — 40k coins, **+42% em 7 dias** (+18.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sara Däbritz (86)** — 54k coins, **+35.4% em 7 dias** (+2.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sara Däbritz (86)** — 54k coins, **+33.8% em 7 dias** (+2.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Cristina Cubedo (84)** — 40k coins, **+28.7% em 7 dias** (+12.2% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -82,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Patri Guijarro (90, Liga F) lidera, com +76.6% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (90, Liga F) lidera, com +78.2% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -100,7 +98,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Liga F em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Mercado EA FC em 24/07: Liga F — Console (PS)](/posts/mercado-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
